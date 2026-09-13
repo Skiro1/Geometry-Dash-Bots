@@ -29,7 +29,7 @@
 | 12 | **zBot (Pro)** | *Неизвестно* | 🔒 Закрытый | [Официальный сайт](https://zbot.figmentcoding.me/) | **$4.00** |
 | 13 | **ծbot** | *Неизвестно* | 🔒 Закрытый | [Официальный сайт](https://tcbot.pro/#pricing) | **899 ₽** |
 | 14 | **MegaHack** | `v9.1.3` | 🔒 Закрытый | [Официальный сайт](https://absolllute.com/store) | **$5.99** |
-| 15 | **Grape** | `v1.4` | 🔒 Закрытый | [Discord Server](https://discord.com/invite/dF8ewrepF) | Доступ через Discord |
+| 15 | **Grape** | `v1.4` | 🔒 Закрытый | [Discord Server](https://discord.gg/uh7CHzTUtD) | Доступ через Discord |
 | 16 | **iCreatePro** | `v6.10.1` | 🔒 Закрытый | [Официальный сайт](https://icreate.pro/) | **$6.00** |
 
 ### Единый маркированный список
@@ -48,7 +48,7 @@
 12. 🔒 **zBot (Pro)** — `Версия неизвестна` \| [Официальный сайт](https://zbot.figmentcoding.me/) \| *Closed Source / $4.00*
 13. 🔒 **ծbot** — `Версия неизвестна` \| [Официальный сайт](https://tcbot.pro/#pricing) \| *Closed Source / 899 ₽*
 14. 🔒 **MegaHack** — `v9.1.3` \| [Официальный сайт](https://absolllute.com/store) \| *Closed Source / $5.99*
-15. 🔒 **Grape** — `v1.4` \| [Discord Server](https://discord.com/invite/dF8ewrepF) \| *Closed Source / Доступ на сервере*
+15. 🔒 **Grape** — `v1.4` \| [Discord Server](https://discord.gg/uh7CHzTUtD) \| *Closed Source / Доступ на сервере*
 16. 🔒 **iCreatePro** — `v6.10.1` \| [Официальный сайт](https://icreate.pro/) \| *Closed Source / $6.00*
 
 ---
@@ -73,7 +73,7 @@
 | 12 | **zBot (Pro)** | *Unknown* | 🔒 Closed Source | [Official Website](https://zbot.figmentcoding.me/) | **$4.00** |
 | 13 | **ծbot** | *Unknown* | 🔒 Closed Source | [Official Website](https://tcbot.pro/#pricing) | **899 ₽** |
 | 14 | **MegaHack** | `v9.1.3` | 🔒 Closed Source | [Official Website](https://absolllute.com/store) | **$5.99** |
-| 15 | **Grape** | `v1.4` | 🔒 Closed Source | [Discord Server](https://discord.com/invite/dF8ewrepF) | Server Access Required |
+| 15 | **Grape** | `v1.4` | 🔒 Closed Source | [Discord Server](https://discord.gg/uh7CHzTUtD) | Server Access Required |
 | 16 | **iCreatePro** | `v6.10.1` | 🔒 Closed Source | [Official Website](https://icreate.pro/) | **$6.00** |
 
 ### Combined Itemized List
@@ -92,5 +92,5 @@
 12. 🔒 **zBot (Pro)** — `Unknown` \| [Official Website](https://zbot.figmentcoding.me/) \| *Closed Source / $4.00*
 13. 🔒 **ծbot** — `Unknown` \| [Official Website](https://tcbot.pro/#pricing) \| *Closed Source / 899 ₽*
 14. 🔒 **MegaHack** — `v9.1.3` \| [Official Website](https://absolllute.com/store) \| *Closed Source / $5.99*
-15. 🔒 **Grape** — `v1.4` \| [Discord Server](https://discord.com/invite/dF8ewrepF) \| *Closed Source / Server Access Required*
+15. 🔒 **Grape** — `v1.4` \| [Discord Server](https://discord.gg/uh7CHzTUtD) \| *Closed Source / Server Access Required*
 16. 🔒 **iCreatePro** — `v6.10.1` \| [Official Website](https://icreate.pro/) \| *Closed Source / $6.00*
