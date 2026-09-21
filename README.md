@@ -22,7 +22,7 @@
 | 5 | **zBot (Free)** | `v3.0.0-beta.12` | 🟢 Открытый | [Страница мода](https://geode-sdk.org/mods/fig.zbot) | Бесплатно |
 | 6 | **skkBot** | `v0.1.0` | 🟢 Открытый | [GitHub Releases](https://github.com/Skiro1/skkBot) | Бесплатно |
 | 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Открытый | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Бесплатно |
-| 8 | **GucciBot** | `v1.7.1` | 🟢 Открытый | [GitHub Releases](https://github.com/Nigelx1/GucciBot) | Бесплатно |
+| 8 | **GucciBot** | `v1.8` | 🟢 Открытый | [GitHub Releases](https://github.com/Nigelx1/GucciBot) | Бесплатно |
 | 9 | **xdNako** | `v2.7.7` | 🔒 Закрытый | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Бесплатно |
 | 10 | **Astral** | `v1.1.0` | 🔒 Закрытый | [Open Geode Index](https://open-geode.7m.pl/ui/mod/astralteam.astral-installer) | Бесплатно |
 | 11 | **ToastyReplay (Pro)** | `v2.2.7` | 🔒 Закрытый | [Официальный сайт](https://toastyreplay.xyz/#pricing) | **$3** / мес или **$15** навсегда |
@@ -41,7 +41,7 @@
 5. 🟢 **zBot (Free)** — `v3.0.0-beta.12` \| [Страница мода](https://geode-sdk.org/mods/fig.zbot) \| *Open Source / Бесплатно*
 6. 🟢 **skkBot** — `v0.1.0` \| [GitHub Releases](https://github.com/Skiro1/skkBot) \| *Open Source / Бесплатно*
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Бесплатно*
-8. 🟢 **GucciBot** — `v1.7.1` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Бесплатно*
+8. 🟢 **GucciBot** — `v1.8` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Бесплатно*
 9. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7/releases) \| *Closed Source / Бесплатно*
 10. 🔒 **Astral** — `v1.1.0` \| [Open Geode Index](https://open-geode.7m.pl/ui/mod/astralteam.astral-installer) \| *Closed Source / Бесплатно*
 11. 🔒 **ToastyReplay (Pro)** — `v2.2.7` \| [Официальный сайт](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/мес или $15 навсегда*
@@ -66,7 +66,7 @@
 | 5 | **zBot (Free)** | `v3.0.0-beta.12` | 🟢 Open Source | [Mod Page](https://geode-sdk.org/mods/fig.zbot) | Free |
 | 6 | **skkBot** | `v0.1.0` | 🟢 Open Source | [GitHub Releases](https://github.com/Skiro1/skkBot) | Free |
 | 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Open Source | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Free |
-| 8 | **GucciBot** | `v1.7.1` | 🟢 Open Source | [GitHub Releases](https://github.com/Nigelx1/GucciBot) | Free |
+| 8 | **GucciBot** | `v1.8` | 🟢 Open Source | [GitHub Releases](https://github.com/Nigelx1/GucciBot) | Free |
 | 9 | **xdNako** | `v2.7.7` | 🔒 Closed Source | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Free |
 | 10 | **Astral** | `v1.1.0` | 🔒 Closed Source | [Open Geode Index](https://open-geode.7m.pl/ui/mod/astralteam.astral-installer) | Free |
 | 11 | **ToastyReplay (Pro)** | `v2.2.7` | 🔒 Closed Source | [Official Website](https://toastyreplay.xyz/#pricing) | **$3** / mo or **$15** lifetime |
@@ -85,7 +85,7 @@
 5. 🟢 **zBot (Free)** — `v3.0.0-beta.12` \| [Mod Page](https://geode-sdk.org/mods/fig.zbot) \| *Open Source / Free*
 6. 🟢 **skkBot** — `v0.1.0` \| [GitHub Releases](https://github.com/Skiro1/skkBot) \| *Open Source / Free*
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Free*
-8. 🟢 **GucciBot** — `v1.7.1` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Free*
+8. 🟢 **GucciBot** — `v1.8` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Free*
 9. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) \| *Closed Source / Free*
 10. 🔒 **Astral** — `v1.1.0` \| [Open Geode Index](https://open-geode.7m.pl/ui/mod/astralteam.astral-installer) \| *Closed Source / Free*
 11. 🔒 **ToastyReplay (Pro)** — `v2.2.7` \| [Official Website](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/mo or $15 lifetime*
