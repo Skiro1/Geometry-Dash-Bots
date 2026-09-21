@@ -68,7 +68,7 @@
 | 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Open Source | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Free |
 | 8 | **GucciBot** | `v1.8` | 🟢 Open Source | [GitHub Releases](https://github.com/Nigelx1/GucciBot) | Free |
 | 9 | **xdNako** | `v2.7.7` | 🔒 Closed Source | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Free |
-| 10 | **Astral** | `v1.1.0` | 🔒 Closed Source | [Open Geode Index](https://astral-bot.com/download/) | Free |
+| 10 | **Astral** | `v1.1.0` | 🔒 Closed Source | [Official Website](https://astral-bot.com/download/) | Free |
 | 11 | **ToastyReplay (Pro)** | `v2.2.7` | 🔒 Closed Source | [Official Website](https://toastyreplay.xyz/#pricing) | **$3** / mo or **$15** lifetime |
 | 12 | **zBot (Pro)** | *Unknown* | 🔒 Closed Source | [Official Website](https://zbot.figmentcoding.me/) | **$4.00** |
 | 13 | **ծbot** | *Unknown* | 🔒 Closed Source | [Official Website](https://tcbot.pro/#pricing) | **899 ₽** |
@@ -87,7 +87,7 @@
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Free*
 8. 🟢 **GucciBot** — `v1.8` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Free*
 9. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) \| *Closed Source / Free*
-10. 🔒 **Astral** — `v1.1.0` \| [Open Geode Index](https://astral-bot.com/download/) \| *Closed Source / Free*
+10. 🔒 **Astral** — `v1.1.0` \| [Official Website](https://astral-bot.com/download/) \| *Closed Source / Free*
 11. 🔒 **ToastyReplay (Pro)** — `v2.2.7` \| [Official Website](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/mo or $15 lifetime*
 12. 🔒 **zBot (Pro)** — `Unknown` \| [Official Website](https://zbot.figmentcoding.me/) \| *Closed Source / $4.00*
 13. 🔒 **ծbot** — `Unknown` \| [Official Website](https://tcbot.pro/#pricing) \| *Closed Source / 899 ₽*
