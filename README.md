@@ -25,7 +25,7 @@
 | 8 | **GucciBot** | `v2.beta.1` | 🟢 Открытый | [GitHub Releases](https://github.com/Nigelx1/GucciBot) | Бесплатно |
 | 9 | **xdNako** | `v2.7.7` | 🔒 Закрытый | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Бесплатно |
 | 10 | **Astral** | `v1.2.1-beta` | 🔒 Закрытый | [Официальный сайт](https://astral-bot.com/download/) | Бесплатно |
-| 11 | **ToastyReplay (Pro)** | `v2.2.7` | 🔒 Закрытый | [Официальный сайт](https://toastyreplay.xyz/#pricing) | **$3** / мес или **$15** навсегда |
+| 11 | **ToastyReplay (Pro)** | `v3.0.3` | 🔒 Закрытый | [Официальный сайт](https://toastyreplay.xyz/#pricing) | **$3** / мес или **$15** навсегда |
 | 12 | **zBot (Pro)** | *Неизвестно* | 🔒 Закрытый | [Официальный сайт](https://zbot.figmentcoding.me/) | **$4.00** |
 | 13 | **ծbot** | *Неизвестно* | 🔒 Закрытый | [Официальный сайт](https://tcbot.pro/#pricing) | **899 ₽** |
 | 14 | **MegaHack** | `v9.1.3` | 🔒 Закрытый | [Официальный сайт](https://absolllute.com/store) | **$5.99** |
@@ -44,7 +44,7 @@
 8. 🟢 **GucciBot** — `v2.beta.1` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Бесплатно*
 9. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7/releases) \| *Closed Source / Бесплатно*
 10. 🔒 **Astral** — `v1.2.1-beta` \| [Официальный сайт](https://astral-bot.com/download/) \| *Closed Source / Бесплатно*
-11. 🔒 **ToastyReplay (Pro)** — `v2.2.7` \| [Официальный сайт](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/мес или $15 навсегда*
+11. 🔒 **ToastyReplay (Pro)** — `v3.0.3` \| [Официальный сайт](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/мес или $15 навсегда*
 12. 🔒 **zBot (Pro)** — `Версия неизвестна` \| [Официальный сайт](https://zbot.figmentcoding.me/) \| *Closed Source / $4.00*
 13. 🔒 **ծbot** — `Версия неизвестна` \| [Официальный сайт](https://tcbot.pro/#pricing) \| *Closed Source / 899 ₽*
 14. 🔒 **MegaHack** — `v9.1.3` \| [Официальный сайт](https://absolllute.com/store) \| *Closed Source / $5.99*
@@ -69,7 +69,7 @@
 | 8 | **GucciBot** | `v2.beta.1` | 🟢 Open Source | [GitHub Releases](https://github.com/Nigelx1/GucciBot) | Free |
 | 9 | **xdNako** | `v2.7.7` | 🔒 Closed Source | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Free |
 | 10 | **Astral** | `v1.2.1-beta` | 🔒 Closed Source | [Official Website](https://astral-bot.com/download/) | Free |
-| 11 | **ToastyReplay (Pro)** | `v2.2.7` | 🔒 Closed Source | [Official Website](https://toastyreplay.xyz/#pricing) | **$3** / mo or **$15** lifetime |
+| 11 | **ToastyReplay (Pro)** | `v3.0.3` | 🔒 Closed Source | [Official Website](https://toastyreplay.xyz/#pricing) | **$3** / mo or **$15** lifetime |
 | 12 | **zBot (Pro)** | *Unknown* | 🔒 Closed Source | [Official Website](https://zbot.figmentcoding.me/) | **$4.00** |
 | 13 | **ծbot** | *Unknown* | 🔒 Closed Source | [Official Website](https://tcbot.pro/#pricing) | **899 ₽** |
 | 14 | **MegaHack** | `v9.1.3` | 🔒 Closed Source | [Official Website](https://absolllute.com/store) | **$5.99** |
@@ -88,7 +88,7 @@
 8. 🟢 **GucciBot** — `v2.beta.1` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Free*
 9. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) \| *Closed Source / Free*
 10. 🔒 **Astral** — `v1.2.1-beta` \| [Official Website](https://astral-bot.com/download/) \| *Closed Source / Free*
-11. 🔒 **ToastyReplay (Pro)** — `v2.2.7` \| [Official Website](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/mo or $15 lifetime*
+11. 🔒 **ToastyReplay (Pro)** — `v3.0.3` \| [Official Website](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/mo or $15 lifetime*
 12. 🔒 **zBot (Pro)** — `Unknown` \| [Official Website](https://zbot.figmentcoding.me/) \| *Closed Source / $4.00*
 13. 🔒 **ծbot** — `Unknown` \| [Official Website](https://tcbot.pro/#pricing) \| *Closed Source / 899 ₽*
 14. 🔒 **MegaHack** — `v9.1.3` \| [Official Website](https://absolllute.com/store) \| *Closed Source / $5.99*
