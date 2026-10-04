@@ -23,14 +23,15 @@
 | 6 | **skkBot** | `v0.1.1` | 🟢 Открытый | [GitHub Releases](https://github.com/Skiro1/skkBot) | Бесплатно |
 | 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Открытый | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Бесплатно |
 | 8 | **GucciBot** | `v2.beta.1` | 🟢 Открытый | [GitHub Releases](https://github.com/Nigelx1/GucciBot) | Бесплатно |
-| 9 | **xdNako** | `v2.7.7` | 🔒 Закрытый | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Бесплатно |
-| 10 | **Astral** | `v1.2.1-beta` | 🔒 Закрытый | [Официальный сайт](https://astral-bot.com/download/) | Бесплатно |
-| 11 | **ToastyReplay (Pro)** | `v3.0.3` | 🔒 Закрытый | [Официальный сайт](https://toastyreplay.xyz/#pricing) | **$3** / мес или **$15** навсегда |
-| 12 | **zBot (Pro)** | *Неизвестно* | 🔒 Закрытый | [Официальный сайт](https://zbot.figmentcoding.me/) | **$4.00** |
-| 13 | **ծbot** | *Неизвестно* | 🔒 Закрытый | [Официальный сайт](https://tcbot.pro/#pricing) | **899 ₽** |
-| 14 | **MegaHack** | `v9.1.3` | 🔒 Закрытый | [Официальный сайт](https://absolllute.com/store) | **$5.99** |
-| 15 | **Grape** | `v1.51` | 🔒 Закрытый | [Discord Server](https://discord.gg/gqUxMXKQFE) | Доступ через Discord |
-| 16 | **iCreatePro** | `v6.10.1` | 🔒 Закрытый | [Официальный сайт](https://icreate.pro/) | **$6.00** |
+| 9 | **NoxoraUtils** | `v1.4.18` | 🟢 Открытый | [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) | Бесплатно |
+| 10 | **xdNako** | `v2.7.7` | 🔒 Закрытый | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Бесплатно |
+| 11 | **Astral** | `v1.2.1-beta` | 🔒 Закрытый | [Официальный сайт](https://astral-bot.com/download/) | Бесплатно |
+| 12 | **ToastyReplay (Pro)** | `v3.0.3` | 🔒 Закрытый | [Официальный сайт](https://toastyreplay.xyz/#pricing) | **$3** / мес или **$15** навсегда |
+| 13 | **zBot (Pro)** | *Неизвестно* | 🔒 Закрытый | [Официальный сайт](https://zbot.figmentcoding.me/) | **$4.00** |
+| 14 | **ծbot** | *Неизвестно* | 🔒 Закрытый | [Официальный сайт](https://tcbot.pro/#pricing) | **899 ₽** |
+| 15 | **MegaHack** | `v9.1.3` | 🔒 Закрытый | [Официальный сайт](https://absolllute.com/store) | **$5.99** |
+| 16 | **Grape** | `v1.51` | 🔒 Закрытый | [Discord Server](https://discord.gg/gqUxMXKQFE) | Доступ через Discord |
+| 17 | **iCreatePro** | `v6.10.1` | 🔒 Закрытый | [Официальный сайт](https://icreate.pro/) | **$6.00** |
 
 ### Единый маркированный список
 
@@ -42,14 +43,15 @@
 6. 🟢 **skkBot** — `v0.1.1` \| [GitHub Releases](https://github.com/Skiro1/skkBot) \| *Open Source / Бесплатно*
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Бесплатно*
 8. 🟢 **GucciBot** — `v2.beta.1` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Бесплатно*
-9. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7/releases) \| *Closed Source / Бесплатно*
-10. 🔒 **Astral** — `v1.2.1-beta` \| [Официальный сайт](https://astral-bot.com/download/) \| *Closed Source / Бесплатно*
-11. 🔒 **ToastyReplay (Pro)** — `v3.0.3` \| [Официальный сайт](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/мес или $15 навсегда*
-12. 🔒 **zBot (Pro)** — `Версия неизвестна` \| [Официальный сайт](https://zbot.figmentcoding.me/) \| *Closed Source / $4.00*
-13. 🔒 **ծbot** — `Версия неизвестна` \| [Официальный сайт](https://tcbot.pro/#pricing) \| *Closed Source / 899 ₽*
-14. 🔒 **MegaHack** — `v9.1.3` \| [Официальный сайт](https://absolllute.com/store) \| *Closed Source / $5.99*
-15. 🔒 **Grape** — `v1.51` \| [Discord Server](https://discord.gg/gqUxMXKQFE) \| *Closed Source / Доступ на сервере*
-16. 🔒 **iCreatePro** — `v6.10.1` \| [Официальный сайт](https://icreate.pro/) \| *Closed Source / $6.00*
+9. 🟢 **NoxoraUtils** — `v1.4.18` \| [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) \| *Open Source / Бесплатно*
+10. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7/releases) \| *Closed Source / Бесплатно*
+11. 🔒 **Astral** — `v1.2.1-beta` \| [Официальный сайт](https://astral-bot.com/download/) \| *Closed Source / Бесплатно*
+12. 🔒 **ToastyReplay (Pro)** — `v3.0.3` \| [Официальный сайт](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/мес или $15 навсегда*
+13. 🔒 **zBot (Pro)** — `Версия неизвестна` \| [Официальный сайт](https://zbot.figmentcoding.me/) \| *Closed Source / $4.00*
+14. 🔒 **ծbot** — `Версия неизвестна` \| [Официальный сайт](https://tcbot.pro/#pricing) \| *Closed Source / 899 ₽*
+15. 🔒 **MegaHack** — `v9.1.3` \| [Официальный сайт](https://absolllute.com/store) \| *Closed Source / $5.99*
+16. 🔒 **Grape** — `v1.51` \| [Discord Server](https://discord.gg/gqUxMXKQFE) \| *Closed Source / Доступ на сервере*
+17. 🔒 **iCreatePro** — `v6.10.1` \| [Официальный сайт](https://icreate.pro/) \| *Closed Source / $6.00*
 
 ---
 
@@ -67,14 +69,15 @@
 | 6 | **skkBot** | `v0.1.1` | 🟢 Open Source | [GitHub Releases](https://github.com/Skiro1/skkBot) | Free |
 | 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Open Source | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Free |
 | 8 | **GucciBot** | `v2.beta.1` | 🟢 Open Source | [GitHub Releases](https://github.com/Nigelx1/GucciBot) | Free |
-| 9 | **xdNako** | `v2.7.7` | 🔒 Closed Source | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Free |
-| 10 | **Astral** | `v1.2.1-beta` | 🔒 Closed Source | [Official Website](https://astral-bot.com/download/) | Free |
-| 11 | **ToastyReplay (Pro)** | `v3.0.3` | 🔒 Closed Source | [Official Website](https://toastyreplay.xyz/#pricing) | **$3** / mo or **$15** lifetime |
-| 12 | **zBot (Pro)** | *Unknown* | 🔒 Closed Source | [Official Website](https://zbot.figmentcoding.me/) | **$4.00** |
-| 13 | **ծbot** | *Unknown* | 🔒 Closed Source | [Official Website](https://tcbot.pro/#pricing) | **899 ₽** |
-| 14 | **MegaHack** | `v9.1.3` | 🔒 Closed Source | [Official Website](https://absolllute.com/store) | **$5.99** |
-| 15 | **Grape** | `v1.51` | 🔒 Closed Source | [Discord Server](https://discord.gg/gqUxMXKQFE) | Server Access Required |
-| 16 | **iCreatePro** | `v6.10.1` | 🔒 Closed Source | [Official Website](https://icreate.pro/) | **$6.00** |
+| 9 | **NoxoraUtils** | `v1.4.18` | 🟢 Открытый | [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) | Free |
+| 10 | **xdNako** | `v2.7.7` | 🔒 Closed Source | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Free |
+| 11 | **Astral** | `v1.2.1-beta` | 🔒 Closed Source | [Official Website](https://astral-bot.com/download/) | Free |
+| 12 | **ToastyReplay (Pro)** | `v3.0.3` | 🔒 Closed Source | [Official Website](https://toastyreplay.xyz/#pricing) | **$3** / mo or **$15** lifetime |
+| 13 | **zBot (Pro)** | *Unknown* | 🔒 Closed Source | [Official Website](https://zbot.figmentcoding.me/) | **$4.00** |
+| 14 | **ծbot** | *Unknown* | 🔒 Closed Source | [Official Website](https://tcbot.pro/#pricing) | **899 ₽** |
+| 15 | **MegaHack** | `v9.1.3` | 🔒 Closed Source | [Official Website](https://absolllute.com/store) | **$5.99** |
+| 16 | **Grape** | `v1.51` | 🔒 Closed Source | [Discord Server](https://discord.gg/gqUxMXKQFE) | Server Access Required |
+| 17 | **iCreatePro** | `v6.10.1` | 🔒 Closed Source | [Official Website](https://icreate.pro/) | **$6.00** |
 
 ### Combined Itemized List
 
@@ -86,11 +89,12 @@
 6. 🟢 **skkBot** — `v0.1.1` \| [GitHub Releases](https://github.com/Skiro1/skkBot) \| *Open Source / Free*
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Free*
 8. 🟢 **GucciBot** — `v2.beta.1` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Free*
-9. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) \| *Closed Source / Free*
-10. 🔒 **Astral** — `v1.2.1-beta` \| [Official Website](https://astral-bot.com/download/) \| *Closed Source / Free*
-11. 🔒 **ToastyReplay (Pro)** — `v3.0.3` \| [Official Website](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/mo or $15 lifetime*
-12. 🔒 **zBot (Pro)** — `Unknown` \| [Official Website](https://zbot.figmentcoding.me/) \| *Closed Source / $4.00*
-13. 🔒 **ծbot** — `Unknown` \| [Official Website](https://tcbot.pro/#pricing) \| *Closed Source / 899 ₽*
-14. 🔒 **MegaHack** — `v9.1.3` \| [Official Website](https://absolllute.com/store) \| *Closed Source / $5.99*
-15. 🔒 **Grape** — `v1.51` \| [Discord Server](https://discord.gg/gqUxMXKQFE) \| *Closed Source / Server Access Required*
-16. 🔒 **iCreatePro** — `v6.10.1` \| [Official Website](https://icreate.pro/) \| *Closed Source / $6.00*
+9. 🟢 **NoxoraUtils** — `v1.4.18` \| [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) \| *Open Source / Бесплатно*
+10. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) \| *Closed Source / Free*
+11. 🔒 **Astral** — `v1.2.1-beta` \| [Official Website](https://astral-bot.com/download/) \| *Closed Source / Free*
+12. 🔒 **ToastyReplay (Pro)** — `v3.0.3` \| [Official Website](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/mo or $15 lifetime*
+13. 🔒 **zBot (Pro)** — `Unknown` \| [Official Website](https://zbot.figmentcoding.me/) \| *Closed Source / $4.00*
+14. 🔒 **ծbot** — `Unknown` \| [Official Website](https://tcbot.pro/#pricing) \| *Closed Source / 899 ₽*
+15. 🔒 **MegaHack** — `v9.1.3` \| [Official Website](https://absolllute.com/store) \| *Closed Source / $5.99*
+16. 🔒 **Grape** — `v1.51` \| [Discord Server](https://discord.gg/gqUxMXKQFE) \| *Closed Source / Server Access Required*
+17. 🔒 **iCreatePro** — `v6.10.1` \| [Official Website](https://icreate.pro/) \| *Closed Source / $6.00*
