@@ -45,7 +45,7 @@
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Бесплатно*
 8. 🟢 **GucciBot** — `v2.beta.1` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Бесплатно*
 9. 🟢 **NoxoraUtils** — `v1.4.18` \| [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) \| *Open Source / Бесплатно*
-10. 🟢 **Echo** — `v1.4.18` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Open Source / Бесплатно*
+10. 🟢 **Echo** — `v2.0.0` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Open Source / Бесплатно*
 11. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7/releases) \| *Closed Source / Бесплатно*
 12. 🔒 **Astral** — `v1.2.1-beta` \| [Официальный сайт](https://astral-bot.com/download/) \| *Closed Source / Бесплатно*
 13. 🔒 **ToastyReplay (Pro)** — `v3.0.3` \| [Официальный сайт](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/мес или $15 навсегда*
@@ -93,7 +93,7 @@
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Free*
 8. 🟢 **GucciBot** — `v2.beta.1` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Free*
 9. 🟢 **NoxoraUtils** — `v1.4.18` \| [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) \| *Open Source / Free*
-10. 🟢 **Echo** — `v1.4.18` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Open Source / Free*
+10. 🟢 **Echo** — `v2.0.0` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Open Source / Free*
 11. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) \| *Closed Source / Free*
 12. 🔒 **Astral** — `v1.2.1-beta` \| [Official Website](https://astral-bot.com/download/) \| *Closed Source / Free*
 13. 🔒 **ToastyReplay (Pro)** — `v3.0.3` \| [Official Website](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/mo or $15 lifetime*
