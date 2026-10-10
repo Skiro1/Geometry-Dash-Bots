@@ -23,8 +23,8 @@
 | 6 | **skkBot** | `v0.1.1` | 🟢 Открытый | [GitHub Releases](https://github.com/Skiro1/skkBot) | Бесплатно |
 | 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Открытый | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Бесплатно |
 | 8 | **GucciBot** | `v2.beta.1` | 🟢 Открытый | [GitHub Releases](https://github.com/Nigelx1/GucciBot) | Бесплатно |
-| 9 | **NoxoraUtils** | `v1.4.18` | 🟢 Открытый | [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) | Бесплатно |
-| 10 | **Echo** | `v2.0.0` | 🟢 Открытый | [Discord Server](https://discord.gg/auucSBf5bH) | Бесплатно |
+| 9 | **NoxoraUtils** | `v1.4.26` | 🟢 Открытый | [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) | Бесплатно |
+| 10 | **Echo** | `v2.0.0` | 🔒 Закрытый | [Discord Server](https://discord.gg/auucSBf5bH) | Бесплатно |
 | 11 | **xdNako** | `v2.7.7` | 🔒 Закрытый | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Бесплатно |
 | 12 | **Astral** | `v1.2.1-beta` | 🔒 Закрытый | [Официальный сайт](https://astral-bot.com/download/) | Бесплатно |
 | 13 | **ToastyReplay (Pro)** | `v3.0.8` | 🔒 Закрытый | [Официальный сайт](https://toastyreplay.xyz/#pricing) | **$3** / мес или **$15** навсегда |
@@ -44,8 +44,8 @@
 6. 🟢 **skkBot** — `v0.1.1` \| [GitHub Releases](https://github.com/Skiro1/skkBot) \| *Open Source / Бесплатно*
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Бесплатно*
 8. 🟢 **GucciBot** — `v2.beta.1` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Бесплатно*
-9. 🟢 **NoxoraUtils** — `v1.4.18` \| [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) \| *Open Source / Бесплатно*
-10. 🟢 **Echo** — `v2.0.0` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Open Source / Бесплатно*
+9. 🟢 **NoxoraUtils** — `v1.4.26` \| [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) \| *Open Source / Бесплатно*
+10. 🔒 **Echo** — `v2.0.0` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Closed Source / Бесплатно*
 11. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7/releases) \| *Closed Source / Бесплатно*
 12. 🔒 **Astral** — `v1.2.1-beta` \| [Официальный сайт](https://astral-bot.com/download/) \| *Closed Source / Бесплатно*
 13. 🔒 **ToastyReplay (Pro)** — `v3.0.8` \| [Официальный сайт](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/мес или $15 навсегда*
@@ -71,8 +71,8 @@
 | 6 | **skkBot** | `v0.1.1` | 🟢 Open Source | [GitHub Releases](https://github.com/Skiro1/skkBot) | Free |
 | 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Open Source | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Free |
 | 8 | **GucciBot** | `v2.beta.1` | 🟢 Open Source | [GitHub Releases](https://github.com/Nigelx1/GucciBot) | Free |
-| 9 | **NoxoraUtils** | `v1.4.18` | 🟢 Open Source | [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) | Free |
-| 10 | **Echo** | `v2.0.0` | 🟢 Open Source | [Discord Server](https://discord.gg/auucSBf5bH) | Free |
+| 9 | **NoxoraUtils** | `v1.4.26` | 🟢 Open Source | [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) | Free |
+| 10 | **Echo** | `v2.0.0` | 🔒 Closed Source | [Discord Server](https://discord.gg/auucSBf5bH) | Free |
 | 11 | **xdNako** | `v2.7.7` | 🔒 Closed Source | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Free |
 | 12 | **Astral** | `v1.2.1-beta` | 🔒 Closed Source | [Official Website](https://astral-bot.com/download/) | Free |
 | 13 | **ToastyReplay (Pro)** | `v3.0.8` | 🔒 Closed Source | [Official Website](https://toastyreplay.xyz/#pricing) | **$3** / mo or **$15** lifetime |
@@ -92,8 +92,8 @@
 6. 🟢 **skkBot** — `v0.1.1` \| [GitHub Releases](https://github.com/Skiro1/skkBot) \| *Open Source / Free*
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Free*
 8. 🟢 **GucciBot** — `v2.beta.1` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Free*
-9. 🟢 **NoxoraUtils** — `v1.4.18` \| [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) \| *Open Source / Free*
-10. 🟢 **Echo** — `v2.0.0` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Open Source / Free*
+9. 🟢 **NoxoraUtils** — `v1.4.26` \| [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) \| *Open Source / Free*
+10. 🔒 **Echo** — `v2.0.0` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Closed Source / Free*
 11. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) \| *Closed Source / Free*
 12. 🔒 **Astral** — `v1.2.1-beta` \| [Official Website](https://astral-bot.com/download/) \| *Closed Source / Free*
 13. 🔒 **ToastyReplay (Pro)** — `v3.0.8` \| [Official Website](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/mo or $15 lifetime*
