@@ -22,7 +22,7 @@
 | 5 | **zBot (Free)** | `v3.0.0-beta.12` | 🟢 Открытый | [Страница мода](https://geode-sdk.org/mods/fig.zbot) | Бесплатно |
 | 6 | **skkBot** | `v0.1.1` | 🟢 Открытый | [GitHub Releases](https://github.com/Skiro1/skkBot) | Бесплатно |
 | 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Открытый | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Бесплатно |
-| 8 | **GucciBot** | `v2.beta.1` | 🟢 Открытый | [GitHub Releases](https://github.com/Nigelx1/GucciBot) | Бесплатно |
+| 8 | **GucciBot** | `v2.0.0-beta.3` | 🟢 Открытый | [GitHub Releases](https://github.com/Nigelx1/GucciBot) | Бесплатно |
 | 9 | **NoxoraUtils** | `v1.4.26` | 🟢 Открытый | [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) | Бесплатно |
 | 10 | **Echo** | `v2.0.0` | 🔒 Закрытый | [Discord Server](https://discord.gg/auucSBf5bH) | Бесплатно |
 | 11 | **xdNako** | `v2.7.7` | 🔒 Закрытый | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Бесплатно |
@@ -43,7 +43,7 @@
 5. 🟢 **zBot (Free)** — `v3.0.0-beta.12` \| [Страница мода](https://geode-sdk.org/mods/fig.zbot) \| *Open Source / Бесплатно*
 6. 🟢 **skkBot** — `v0.1.1` \| [GitHub Releases](https://github.com/Skiro1/skkBot) \| *Open Source / Бесплатно*
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Бесплатно*
-8. 🟢 **GucciBot** — `v2.beta.1` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Бесплатно*
+8. 🟢 **GucciBot** — `v2.0.0-beta.3` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Бесплатно*
 9. 🟢 **NoxoraUtils** — `v1.4.26` \| [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) \| *Open Source / Бесплатно*
 10. 🔒 **Echo** — `v2.0.0` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Closed Source / Бесплатно*
 11. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7/releases) \| *Closed Source / Бесплатно*
@@ -70,7 +70,7 @@
 | 5 | **zBot (Free)** | `v3.0.0-beta.12` | 🟢 Open Source | [Mod Page](https://geode-sdk.org/mods/fig.zbot) | Free |
 | 6 | **skkBot** | `v0.1.1` | 🟢 Open Source | [GitHub Releases](https://github.com/Skiro1/skkBot) | Free |
 | 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Open Source | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Free |
-| 8 | **GucciBot** | `v2.beta.1` | 🟢 Open Source | [GitHub Releases](https://github.com/Nigelx1/GucciBot) | Free |
+| 8 | **GucciBot** | `v2.0.0-beta.3` | 🟢 Open Source | [GitHub Releases](https://github.com/Nigelx1/GucciBot) | Free |
 | 9 | **NoxoraUtils** | `v1.4.26` | 🟢 Open Source | [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) | Free |
 | 10 | **Echo** | `v2.0.0` | 🔒 Closed Source | [Discord Server](https://discord.gg/auucSBf5bH) | Free |
 | 11 | **xdNako** | `v2.7.7` | 🔒 Closed Source | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Free |
@@ -91,7 +91,7 @@
 5. 🟢 **zBot (Free)** — `v3.0.0-beta.12` \| [Mod Page](https://geode-sdk.org/mods/fig.zbot) \| *Open Source / Free*
 6. 🟢 **skkBot** — `v0.1.1` \| [GitHub Releases](https://github.com/Skiro1/skkBot) \| *Open Source / Free*
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Free*
-8. 🟢 **GucciBot** — `v2.beta.1` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Free*
+8. 🟢 **GucciBot** — `v2.0.0-beta.3` \| [GitHub Releases](https://github.com/Nigelx1/GucciBot) \| *Open Source / Free*
 9. 🟢 **NoxoraUtils** — `v1.4.26` \| [GitHub Releases](https://github.com/noxoraid/NoxoraUtils) \| *Open Source / Free*
 10. 🔒 **Echo** — `v2.0.0` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Closed Source / Free*
 11. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) \| *Closed Source / Free*
