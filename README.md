@@ -4,7 +4,7 @@
 
 ## Language Navigation / Навигация по языкам
 
-- [🇷🇺 Русский вариант](#-русская-версия-russian-version)
+- [🇷🇺 Русский вариант](#-Русская-версия-(Russian-Version))
 - [🇬🇧 English Variant](#-english-version--английская-версия)
 
 ---
