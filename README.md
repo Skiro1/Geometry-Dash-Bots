@@ -15,7 +15,7 @@
 
 | № | Название | Версия | Исходный код | Ссылка / Источник | Цена / Доступ |
 | :-: | :--- | :---: | :---: | :--- | :--- |
-| 1 | **Silicate** | `v1.1.2` | 🟢 Открытый | [Страница мода](https://geode-sdk.org/mods/peony.silicate) | Бесплатно |
+| 1 | **Silicate** | `v1.1.2` | 🔒 Закрытый | [Страница мода](https://geode-sdk.org/mods/peony.silicate) | Бесплатно |
 | 2 | **ToastyReplay (Free)** | `v2.2.5` | 🟢 Открытый | [Официальный сайт](https://toastyreplay.xyz/#pricing) | Бесплатно |
 | 3 | **GDH** | `v5.1.0-beta.6` | 🟢 Открытый | [Страница мода](https://geode-sdk.org/mods/tobyadd.gdh) | Бесплатно |
 | 4 | **EclipseMenu** | `v1.9.4` | 🟢 Открытый | [Страница мода](https://geode-sdk.org/mods/eclipse.eclipse-menu) | Бесплатно |
@@ -37,7 +37,7 @@
 
 ### Единый маркированный список
 
-1. 🟢 **Silicate** — `v1.1.2` \| [Страница мода](https://geode-sdk.org/mods/peony.silicate) \| *Open Source / Бесплатно*
+1. 🔒 **Silicate** — `v1.1.2` \| [Страница мода](https://geode-sdk.org/mods/peony.silicate) \| *Open Source / Бесплатно*
 2. 🟢 **ToastyReplay (Free)** — `v2.2.5` \| [Официальный сайт](https://toastyreplay.xyz/#pricing) \| *Open Source / Бесплатно*
 3. 🟢 **GDH** — `v5.1.0-beta.6` \| [Страница мода](https://geode-sdk.org/mods/tobyadd.gdh) \| *Open Source / Бесплатно*
 4. 🟢 **EclipseMenu** — `v1.9.4` \| [Страница мода](https://geode-sdk.org/mods/eclipse.eclipse-menu) \| *Open Source / Бесплатно*
@@ -65,7 +65,7 @@
 
 | # | Name | Version | Source Code | Link / Source | Price / Access |
 | :-: | :--- | :---: | :---: | :--- | :--- |
-| 1 | **Silicate** | `v1.1.2` | 🟢 Open Source | [Mod Page](https://geode-sdk.org/mods/peony.silicate) | Free |
+| 1 | **Silicate** | `v1.1.2` | 🔒 Closed Source | [Mod Page](https://geode-sdk.org/mods/peony.silicate) | Free |
 | 2 | **ToastyReplay (Free)** | `v2.2.5` | 🟢 Open Source | [Official Website](https://toastyreplay.xyz/#pricing) | Free |
 | 3 | **GDH** | `v5.1.0-beta.6` | 🟢 Open Source | [Mod Page](https://geode-sdk.org/mods/tobyadd.gdh) | Free |
 | 4 | **EclipseMenu** | `v1.9.4` | 🟢 Open Source | [Mod Page](https://geode-sdk.org/mods/eclipse.eclipse-menu) | Free |
@@ -87,7 +87,7 @@
 
 ### Combined Itemized List
 
-1. 🟢 **Silicate** — `v1.1.2` \| [Mod Page](https://geode-sdk.org/mods/peony.silicate) \| *Open Source / Free*
+1. 🔒 **Silicate** — `v1.1.2` \| [Mod Page](https://geode-sdk.org/mods/peony.silicate) \| *Open Source / Free*
 2. 🟢 **ToastyReplay (Free)** — `v2.2.5` \| [Official Website](https://toastyreplay.xyz/#pricing) \| *Open Source / Free*
 3. 🟢 **GDH** — `v5.1.0-beta.6` \| [Mod Page](https://geode-sdk.org/mods/tobyadd.gdh) \| *Open Source / Free*
 4. 🟢 **EclipseMenu** — `v1.9.4` \| [Mod Page](https://geode-sdk.org/mods/eclipse.eclipse-menu) \| *Open Source / Free*
