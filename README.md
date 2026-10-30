@@ -32,7 +32,7 @@
 | 15 | **ToastyReplay (Pro)** | `v3.4.5` | 🔒 Закрытый | [Официальный сайт](https://toastyreplay.xyz/#pricing) | **$3** / мес или **$15** навсегда |
 | 16 | **zBot (Pro)** | *Неизвестно* | 🔒 Закрытый | [Официальный сайт](https://zbot.figmentcoding.me/) | **$4.00** |
 | 17 | **ծbot** | *Неизвестно* | 🔒 Закрытый | [Официальный сайт](https://tcbot.pro/#pricing) | **899 ₽** |
-| 18 | **MegaHack** | `v9.2.0-alpha.3` | 🔒 Закрытый | [Официальный сайт](https://absolllute.com/store) | **$5.99** |
+| 18 | **MegaHack** | `v9.2.0-alpha.4` | 🔒 Закрытый | [Официальный сайт](https://absolllute.com/store) | **$5.99** |
 | 19 | **Grape** | `v1.51` | 🔒 Закрытый | [Discord Server](https://discord.gg/gqUxMXKQFE) | Доступ через Discord |
 | 20 | **iCreatePro** | `v6.10.1` | 🔒 Закрытый | [Официальный сайт](https://icreate.pro/) | **$6.00** |
 
@@ -55,7 +55,7 @@
 15. 🔒 **ToastyReplay (Pro)** — `v3.4.5` \| [Официальный сайт](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/мес или $15 навсегда*
 16. 🔒 **zBot (Pro)** — `Версия неизвестна` \| [Официальный сайт](https://zbot.figmentcoding.me/) \| *Closed Source / $4.00*
 17. 🔒 **ծbot** — `Версия неизвестна` \| [Официальный сайт](https://tcbot.pro/#pricing) \| *Closed Source / 899 ₽*
-18. 🔒 **MegaHack** — `v9.2.0-alpha.3` \| [Официальный сайт](https://absolllute.com/store) \| *Closed Source / $5.99*
+18. 🔒 **MegaHack** — `v9.2.0-alpha.4` \| [Официальный сайт](https://absolllute.com/store) \| *Closed Source / $5.99*
 19. 🔒 **Grape** — `v1.51` \| [Discord Server](https://discord.gg/gqUxMXKQFE) \| *Closed Source / Доступ на сервере*
 20. 🔒 **iCreatePro** — `v6.10.1` \| [Официальный сайт](https://icreate.pro/) \| *Closed Source / $6.00*
 
@@ -84,7 +84,7 @@
 | 15 | **ToastyReplay (Pro)** | `v3.4.5` | 🔒 Closed Source | [Official Website](https://toastyreplay.xyz/#pricing) | **$3** / mo or **$15** lifetime |
 | 16 | **zBot (Pro)** | *Unknown* | 🔒 Closed Source | [Official Website](https://zbot.figmentcoding.me/) | **$4.00** |
 | 17 | **ծbot** | *Unknown* | 🔒 Closed Source | [Official Website](https://tcbot.pro/#pricing) | **899 ₽** |
-| 18 | **MegaHack** | `v9.2.0-alpha.3` | 🔒 Closed Source | [Official Website](https://absolllute.com/store) | **$5.99** |
+| 18 | **MegaHack** | `v9.2.0-alpha.4` | 🔒 Closed Source | [Official Website](https://absolllute.com/store) | **$5.99** |
 | 19 | **Grape** | `v1.51` | 🔒 Closed Source | [Discord Server](https://discord.gg/gqUxMXKQFE) | Server Access Required |
 | 20 | **iCreatePro** | `v6.10.1` | 🔒 Closed Source | [Official Website](https://icreate.pro/) | **$6.00** |
 
@@ -107,6 +107,6 @@
 15. 🔒 **ToastyReplay (Pro)** — `v3.4.5` \| [Official Website](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/mo or $15 lifetime*
 16. 🔒 **zBot (Pro)** — `Unknown` \| [Official Website](https://zbot.figmentcoding.me/) \| *Closed Source / $4.00*
 17. 🔒 **ծbot** — `Unknown` \| [Official Website](https://tcbot.pro/#pricing) \| *Closed Source / 899 ₽*
-18. 🔒 **MegaHack** — `v9.2.0-alpha.3` \| [Official Website](https://absolllute.com/store) \| *Closed Source / $5.99*
+18. 🔒 **MegaHack** — `v9.2.0-alpha.4` \| [Official Website](https://absolllute.com/store) \| *Closed Source / $5.99*
 19. 🔒 **Grape** — `v1.51` \| [Discord Server](https://discord.gg/gqUxMXKQFE) \| *Closed Source / Server Access Required*
 20. 🔒 **iCreatePro** — `v6.10.1` \| [Official Website](https://icreate.pro/) \| *Closed Source / $6.00*
