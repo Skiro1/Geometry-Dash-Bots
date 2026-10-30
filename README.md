@@ -24,7 +24,7 @@
 | 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Открытый | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Бесплатно |
 | 8 | **GucciBot** | `v2.0.0-beta.5` | 🟢 Открытый | [GitHub Repository](https://github.com/Nigelx1/GucciBot) | Бесплатно |
 | 9 | **XENIA** | `v0.8.0` | 🟢 Открытый | [GitHub Releases](https://github.com/noxoraid/XeniaHack) | Бесплатно |
-| 10 | **Echo** | `v2.2.1` | 🟢 Открытый | [Discord Server](https://discord.gg/auucSBf5bH) | Бесплатно |
+| 10 | **Echo** | `v2.3.0-beta.1` | 🟢 Открытый | [Discord Server](https://discord.gg/auucSBf5bH) | Бесплатно |
 | 11 | **Xenon** | `v1.0.0-alpha.2` | 🟢 Открытый | [Официальный сайт](https://xenon.baleszka.dev/) | Бесплатно |
 | 12 | **Vbot** | `v1.0.4-beta` | 🟢 Открытый | [GitHub Repository](https://github.com/Vbot-Macro/Vbot) | Бесплатно |
 | 13 | **xdNako** | `v2.7.7` | 🔒 Закрытый | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Бесплатно |
@@ -47,7 +47,7 @@
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Бесплатно*
 8. 🟢 **GucciBot** — `v2.0.0-beta.5` \| [GitHub Repository](https://github.com/Nigelx1/GucciBot) \| *Open Source / Бесплатно*
 9. 🟢 **XENIA** — `v0.8.0` \| [GitHub Repository](https://github.com/noxoraid/XeniaHack) \| *Open Source / Бесплатно*
-10. 🟢 **Echo** — `v2.2.1` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Open Source / Бесплатно*
+10. 🟢 **Echo** — `v2.3.0-beta.1` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Open Source / Бесплатно*
 11. 🟢 **Xenon** — `v1.0.0-alpha.2` \| [Официальный сайт](https://xenon.baleszka.dev/) \| *Open Source / Бесплатно*
 12. 🟢 **Vbot** — `v1.0.4-beta` \| [GitHub Repository](https://github.com/Vbot-Macro/Vbot) \| *Open Source / Бесплатно*
 13. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7/releases) \| *Closed Source / Бесплатно*
@@ -76,7 +76,7 @@
 | 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Open Source | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Free |
 | 8 | **GucciBot** | `v2.0.0-beta.5` | 🟢 Open Source | [GitHub Repository](https://github.com/Nigelx1/GucciBot) | Free |
 | 9 | **XENIA** | `v0.8.0` | 🟢 Open Source | [GitHub Repository](https://github.com/noxoraid/XeniaHack) | Free |
-| 10 | **Echo** | `v2.2.1` | 🟢 Open Source | [Discord Server](https://discord.gg/auucSBf5bH) | Free |
+| 10 | **Echo** | `v2.3.0-beta.1` | 🟢 Open Source | [Discord Server](https://discord.gg/auucSBf5bH) | Free |
 | 11 | **Xenon** | `v1.0.0-alpha.2` | 🟢 Open Source | [Official Website](https://xenon.baleszka.dev/) | Free |
 | 12 | **Vbot** | `v1.0.4-beta` | 🟢 Open Source | [GitHub Repository](https://github.com/Vbot-Macro/Vbot) | Free |
 | 13 | **xdNako** | `v2.7.7` | 🔒 Closed Source | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Free |
@@ -99,7 +99,7 @@
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Free*
 8. 🟢 **GucciBot** — `v2.0.0-beta.5` \| [GitHub Repository](https://github.com/Nigelx1/GucciBot) \| *Open Source / Free*
 9. 🟢 **XENIA** — `v0.8.0` \| [GitHub Repository](https://github.com/noxoraid/XeniaHack) \| *Open Source / Free*
-10. 🟢 **Echo** — `v2.2.1` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Open Source / Free*
+10. 🟢 **Echo** — `v2.3.0-beta.1` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Open Source / Free*
 11. 🟢 **Xenon** — `v1.0.0-alpha.2` \| [Official Website](https://xenon.baleszka.dev/) \| *Open Source / Free*
 12. 🟢 **Vbot** — `v1.0.4-beta` \| [GitHub Repository](https://github.com/Vbot-Macro/Vbot) \| *Open Source / Free*
 13. 🔒 **xdNako** — `v2.7.7` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) \| *Closed Source / Free*
