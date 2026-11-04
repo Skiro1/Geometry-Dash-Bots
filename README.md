@@ -20,7 +20,7 @@
 | 3 | **GDH** | `v5.1.0-beta.6` | 🟢 Открытый | [Страница мода](https://geode-sdk.org/mods/tobyadd.gdh) | Бесплатно |
 | 4 | **EclipseMenu** | `v1.9.4` | 🟢 Открытый | [Страница мода](https://geode-sdk.org/mods/eclipse.eclipse-menu) | Бесплатно |
 | 5 | **zBot (Free)** | `v3.0.0-beta.12` | 🟢 Открытый | [Страница мода](https://geode-sdk.org/mods/fig.zbot) | Бесплатно |
-| 6 | **skkBot** | `v0.1.2` | 🟢 Открытый | [GitHub Repository](https://github.com/Skiro1/skkBot) | Бесплатно |
+| 6 | **skkBot** | `v0.1.3` | 🟢 Открытый | [GitHub Repository](https://github.com/Skiro1/skkBot) | Бесплатно |
 | 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Открытый | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Бесплатно |
 | 8 | **GucciBot** | `v2.0.0-beta.5` | 🟢 Открытый | [GitHub Repository](https://github.com/Nigelx1/GucciBot) | Бесплатно |
 | 9 | **XENIA** | `v0.8.0` | 🟢 Открытый | [GitHub Releases](https://github.com/noxoraid/XeniaHack) | Бесплатно |
@@ -43,7 +43,7 @@
 3. 🟢 **GDH** — `v5.1.0-beta.6` \| [Страница мода](https://geode-sdk.org/mods/tobyadd.gdh) \| *Open Source / Бесплатно*
 4. 🟢 **EclipseMenu** — `v1.9.4` \| [Страница мода](https://geode-sdk.org/mods/eclipse.eclipse-menu) \| *Open Source / Бесплатно*
 5. 🟢 **zBot (Free)** — `v3.0.0-beta.12` \| [Страница мода](https://geode-sdk.org/mods/fig.zbot) \| *Open Source / Бесплатно*
-6. 🟢 **skkBot** — `v0.1.2` \| [GitHub Repository](https://github.com/Skiro1/skkBot) \| *Open Source / Бесплатно*
+6. 🟢 **skkBot** — `v0.1.3` \| [GitHub Repository](https://github.com/Skiro1/skkBot) \| *Open Source / Бесплатно*
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Бесплатно*
 8. 🟢 **GucciBot** — `v2.0.0-beta.5` \| [GitHub Repository](https://github.com/Nigelx1/GucciBot) \| *Open Source / Бесплатно*
 9. 🟢 **XENIA** — `v0.8.0` \| [GitHub Repository](https://github.com/noxoraid/XeniaHack) \| *Open Source / Бесплатно*
@@ -72,7 +72,7 @@
 | 3 | **GDH** | `v5.1.0-beta.6` | 🟢 Open Source | [Mod Page](https://geode-sdk.org/mods/tobyadd.gdh) | Free |
 | 4 | **EclipseMenu** | `v1.9.4` | 🟢 Open Source | [Mod Page](https://geode-sdk.org/mods/eclipse.eclipse-menu) | Free |
 | 5 | **zBot (Free)** | `v3.0.0-beta.12` | 🟢 Open Source | [Mod Page](https://geode-sdk.org/mods/fig.zbot) | Free |
-| 6 | **skkBot** | `v0.1.2` | 🟢 Open Source | [GitHub Repository](https://github.com/Skiro1/skkBot) | Free |
+| 6 | **skkBot** | `v0.1.3` | 🟢 Open Source | [GitHub Repository](https://github.com/Skiro1/skkBot) | Free |
 | 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Open Source | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Free |
 | 8 | **GucciBot** | `v2.0.0-beta.5` | 🟢 Open Source | [GitHub Repository](https://github.com/Nigelx1/GucciBot) | Free |
 | 9 | **XENIA** | `v0.8.0` | 🟢 Open Source | [GitHub Repository](https://github.com/noxoraid/XeniaHack) | Free |
@@ -95,7 +95,7 @@
 3. 🟢 **GDH** — `v5.1.0-beta.6` \| [Mod Page](https://geode-sdk.org/mods/tobyadd.gdh) \| *Open Source / Free*
 4. 🟢 **EclipseMenu** — `v1.9.4` \| [Mod Page](https://geode-sdk.org/mods/eclipse.eclipse-menu) \| *Open Source / Free*
 5. 🟢 **zBot (Free)** — `v3.0.0-beta.12` \| [Mod Page](https://geode-sdk.org/mods/fig.zbot) \| *Open Source / Free*
-6. 🟢 **skkBot** — `v0.1.2` \| [GitHub Repository](https://github.com/Skiro1/skkBot) \| *Open Source / Free*
+6. 🟢 **skkBot** — `v0.1.3` \| [GitHub Repository](https://github.com/Skiro1/skkBot) \| *Open Source / Free*
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Free*
 8. 🟢 **GucciBot** — `v2.0.0-beta.5` \| [GitHub Repository](https://github.com/Nigelx1/GucciBot) \| *Open Source / Free*
 9. 🟢 **XENIA** — `v0.8.0` \| [GitHub Repository](https://github.com/noxoraid/XeniaHack) \| *Open Source / Free*
