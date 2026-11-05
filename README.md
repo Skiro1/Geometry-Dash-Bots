@@ -26,7 +26,7 @@
 | 9 | **XENIA** | `v0.8.0` | 🟢 Открытый | [GitHub Releases](https://github.com/noxoraid/XeniaHack) | Бесплатно |
 | 10 | **Echo** | `v2.3.0-beta.1` | 🔒 Закрытый | [Discord Server](https://discord.gg/auucSBf5bH) | Бесплатно |
 | 11 | **Xenon** | `v1.0.0-alpha.21` | 🟢 Открытый | [Официальный сайт](https://xenon.baleszka.dev/) | Бесплатно |
-| 12 | **Vbot** | `v1.0.4-beta` | 🟢 Открытый | [GitHub Repository](https://github.com/Vbot-Macro/Vbot) | Бесплатно |
+| 12 | **Vbot** | `v1.0.5-beta` | 🟢 Открытый | [GitHub Repository](https://github.com/Vbot-Macro/Vbot) | Бесплатно |
 | 13 | **xdNako** | `v2.7.75-91` | 🔒 Закрытый | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Бесплатно |
 | 14 | **Astral** | `v1.2.3-beta` | 🔒 Закрытый | [Официальный сайт](https://astral-bot.com/download/) | Бесплатно |
 | 15 | **ToastyReplay (Pro)** | `v3.5.0` | 🔒 Закрытый | [Официальный сайт](https://toastyreplay.xyz/#pricing) | **$3** / мес или **$15** навсегда |
@@ -49,7 +49,7 @@
 9. 🟢 **XENIA** — `v0.8.0` \| [GitHub Repository](https://github.com/noxoraid/XeniaHack) \| *Open Source / Бесплатно*
 10. 🔒 **Echo** — `v2.3.0-beta.1` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Closed Source / Бесплатно*
 11. 🟢 **Xenon** — `v1.0.0-alpha.21` \| [Официальный сайт](https://xenon.baleszka.dev/) \| *Open Source / Бесплатно*
-12. 🟢 **Vbot** — `v1.0.4-beta` \| [GitHub Repository](https://github.com/Vbot-Macro/Vbot) \| *Open Source / Бесплатно*
+12. 🟢 **Vbot** — `v1.0.5-beta` \| [GitHub Repository](https://github.com/Vbot-Macro/Vbot) \| *Open Source / Бесплатно*
 13. 🔒 **xdNako** — `v2.7.75-91` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7/releases) \| *Closed Source / Бесплатно*
 14. 🔒 **Astral** — `v1.2.3-beta` \| [Официальный сайт](https://astral-bot.com/download/) \| *Closed Source / Бесплатно*
 15. 🔒 **ToastyReplay (Pro)** — `v3.5.0` \| [Официальный сайт](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/мес или $15 навсегда*
@@ -78,7 +78,7 @@
 | 9 | **XENIA** | `v0.8.0` | 🟢 Open Source | [GitHub Repository](https://github.com/noxoraid/XeniaHack) | Free |
 | 10 | **Echo** | `v2.3.0-beta.1` | 🔒 Closed Source | [Discord Server](https://discord.gg/auucSBf5bH) | Free |
 | 11 | **Xenon** | `v1.0.0-alpha.21` | 🟢 Open Source | [Official Website](https://xenon.baleszka.dev/) | Free |
-| 12 | **Vbot** | `v1.0.4-beta` | 🟢 Open Source | [GitHub Repository](https://github.com/Vbot-Macro/Vbot) | Free |
+| 12 | **Vbot** | `v1.0.5-beta` | 🟢 Open Source | [GitHub Repository](https://github.com/Vbot-Macro/Vbot) | Free |
 | 13 | **xdNako** | `v2.7.75-91` | 🔒 Closed Source | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Free |
 | 14 | **Astral** | `v1.2.3-beta` | 🔒 Closed Source | [Official Website](https://astral-bot.com/download/) | Free |
 | 15 | **ToastyReplay (Pro)** | `v3.5.0` | 🔒 Closed Source | [Official Website](https://toastyreplay.xyz/#pricing) | **$3** / mo or **$15** lifetime |
@@ -101,7 +101,7 @@
 9. 🟢 **XENIA** — `v0.8.0` \| [GitHub Repository](https://github.com/noxoraid/XeniaHack) \| *Open Source / Free*
 10. 🔒 **Echo** — `v2.3.0-beta.1` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Closed Source / Free*
 11. 🟢 **Xenon** — `v1.0.0-alpha.21` \| [Official Website](https://xenon.baleszka.dev/) \| *Open Source / Free*
-12. 🟢 **Vbot** — `v1.0.4-beta` \| [GitHub Repository](https://github.com/Vbot-Macro/Vbot) \| *Open Source / Free*
+12. 🟢 **Vbot** — `v1.0.5-beta` \| [GitHub Repository](https://github.com/Vbot-Macro/Vbot) \| *Open Source / Free*
 13. 🔒 **xdNako** — `v2.7.75-91` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) \| *Closed Source / Free*
 14. 🔒 **Astral** — `v1.2.3-beta` \| [Official Website](https://astral-bot.com/download/) \| *Closed Source / Free*
 15. 🔒 **ToastyReplay (Pro)** — `v3.5.0` \| [Official Website](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/mo or $15 lifetime*
