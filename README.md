@@ -27,7 +27,7 @@
 | 10 | **Echo** | `v2.3.0-beta.1` | 🔒 Закрытый | [Discord Server](https://discord.gg/auucSBf5bH) | Бесплатно |
 | 11 | **Xenon** | `v1.0.0-alpha.21` | 🟢 Открытый | [Официальный сайт](https://xenon.baleszka.dev/) | Бесплатно |
 | 12 | **Vbot** | `v1.0.5-beta` | 🟢 Открытый | [GitHub Repository](https://github.com/Vbot-Macro/Vbot) | Бесплатно |
-| 13 | **xyzBot** | `v1.14.1` | 🟢 Открытый | [Website](https://malikisherenot.github.io/xyzBot/) | Бесплатно |
+| 13 | **xyzBot** | `v1.14.1` | 🟢 Открытый | [Официальный](https://malikisherenot.github.io/xyzBot/) | Бесплатно |
 | 14 | **xdNako** | `v2.7.75-91` | 🔒 Закрытый | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Бесплатно |
 | 15 | **Ivy** | `v0.5.0` | 🔒 Закрытый | [Discord Server](https://discord.gg/um9PszU894) | Доступ через Discord |
 | 16 | **Astral** | `v1.2.3-beta` | 🔒 Закрытый | [Официальный сайт](https://astral-bot.com/download/) | Бесплатно |
