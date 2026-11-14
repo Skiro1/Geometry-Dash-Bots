@@ -26,7 +26,7 @@
 | 9 | **XENIA** | `v0.8.0` | 🟢 Открытый | [GitHub Releases](https://github.com/noxoraid/XeniaHack) | Бесплатно |
 | 10 | **Echo** | `v2.3.0-beta.3` | 🔒 Закрытый | [Discord Server](https://discord.gg/auucSBf5bH) | Бесплатно |
 | 11 | **Xenon** | `v1.0.0-alpha.21` | 🟢 Открытый | [Официальный сайт](https://xenon.baleszka.dev/) | Бесплатно |
-| 12 | **Vbot** | `v1.0.5-beta` | 🟢 Открытый | [GitHub Repository](https://github.com/Vbot-Macro/Vbot) | Бесплатно |
+| 12 | **Vbot** | `v1.0.0-alpha` | 🟢 Открытый | [GitHub Repository](https://github.com/Vbot-Macro/Vbot) | Бесплатно |
 | 13 | **xyzBot** | `v1.16.0` | 🟢 Открытый | [Официальный сайт](https://malikisherenot.github.io/xyzBot/) | Бесплатно |
 | 14 | **xdNako** | `v2.7.75-91` | 🔒 Закрытый | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Бесплатно |
 | 15 | **Ivy** | `v0.5.0` | 🔒 Закрытый | [Discord Server](https://discord.gg/um9PszU894) | Доступ через Discord |
@@ -51,7 +51,7 @@
 9. 🟢 **XENIA** — `v0.8.0` \| [GitHub Repository](https://github.com/noxoraid/XeniaHack) \| *Open Source / Бесплатно*
 10. 🔒 **Echo** — `v2.3.0-beta.3` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Closed Source / Бесплатно*
 11. 🟢 **Xenon** — `v1.0.0-alpha.21` \| [Официальный сайт](https://xenon.baleszka.dev/) \| *Open Source / Бесплатно*
-12. 🟢 **Vbot** — `v1.0.5-beta` \| [GitHub Repository](https://github.com/Vbot-Macro/Vbot) \| *Open Source / Бесплатно*
+12. 🟢 **Vbot** — `v1.0.0-alpha` \| [GitHub Repository](https://github.com/Vbot-Macro/Vbot) \| *Open Source / Бесплатно*
 13. 🟢 **xyzBot** — `v1.16.0` \| [Официальный сайт](https://malikisherenot.github.io/xyzBot/) \| *Open Source / Бесплатно*
 14. 🔒 **xdNako** — `v2.7.75-91` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7/releases) \| *Closed Source / Бесплатно*
 15. 🔒 **Ivy** — `v0.5.0` \| [Discord Server](https://discord.gg/um9PszU894) \| *Closed Source / Доступ на сервере*
@@ -82,7 +82,7 @@
 | 9 | **XENIA** | `v0.8.0` | 🟢 Open Source | [GitHub Repository](https://github.com/noxoraid/XeniaHack) | Free |
 | 10 | **Echo** | `v2.3.0-beta.3` | 🔒 Closed Source | [Discord Server](https://discord.gg/auucSBf5bH) | Free |
 | 11 | **Xenon** | `v1.0.0-alpha.21` | 🟢 Open Source | [Official Website](https://xenon.baleszka.dev/) | Free |
-| 12 | **Vbot** | `v1.0.5-beta` | 🟢 Open Source | [GitHub Repository](https://github.com/Vbot-Macro/Vbot) | Free |
+| 12 | **Vbot** | `v1.0.0-alpha` | 🟢 Open Source | [GitHub Repository](https://github.com/Vbot-Macro/Vbot) | Free |
 | 13 | **xyzBot** | `v1.16.0` | 🟢 Open Source | [Website](https://malikisherenot.github.io/xyzBot/) | Free |
 | 14 | **xdNako** | `v2.7.75-91` | 🔒 Closed Source | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Free |
 | 15 | **Ivy** | `v0.5.0` | 🔒 Closed Source | [Discord Server](https://discord.gg/um9PszU894) | Server Access Required |
@@ -107,7 +107,7 @@
 9. 🟢 **XENIA** — `v0.8.0` \| [GitHub Repository](https://github.com/noxoraid/XeniaHack) \| *Open Source / Free*
 10. 🔒 **Echo** — `v2.3.0-beta.3` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Closed Source / Free*
 11. 🟢 **Xenon** — `v1.0.0-alpha.21` \| [Official Website](https://xenon.baleszka.dev/) \| *Open Source / Free*
-12. 🟢 **Vbot** — `v1.0.5-beta` \| [GitHub Repository](https://github.com/Vbot-Macro/Vbot) \| *Open Source / Free*
+12. 🟢 **Vbot** — `v1.0.0-alpha` \| [GitHub Repository](https://github.com/Vbot-Macro/Vbot) \| *Open Source / Free*
 13. 🟢 **xyzBot** — `v1.16.0` \| [Website](https://malikisherenot.github.io/xyzBot/)\ | *Open Source / Free*
 15. 🔒 **Ivy** — `v0.5.0` \| [Discord Server](https://discord.gg/um9PszU894) \| *Closed Source / Server Access Required*
 16. 🔒 **xdNako** — `v2.7.75-91` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) \| *Closed Source / Free*
