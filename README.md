@@ -20,14 +20,14 @@
 | 3 | **GDH** | `v5.1.0-beta.6` | 🟢 Открытый | [Страница мода](https://geode-sdk.org/mods/tobyadd.gdh) | Бесплатно |
 | 4 | **EclipseMenu** | `v1.9.4` | 🟢 Открытый | [Страница мода](https://geode-sdk.org/mods/eclipse.eclipse-menu) | Бесплатно |
 | 5 | **zBot (Free)** | `v3.0.0-beta.12` | 🟢 Открытый | [Страница мода](https://geode-sdk.org/mods/fig.zbot) | Бесплатно |
-| 6 | **skkBot** | `v0.1.3` | 🟢 Открытый | [GitHub Repository](https://github.com/Skiro1/skkBot) | Бесплатно |
+| 6 | **skkBot** | `v0.1.4` | 🟢 Открытый | [GitHub Repository](https://github.com/Skiro1/skkBot) | Бесплатно |
 | 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Открытый | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Бесплатно |
 | 8 | **GucciBot** | `v2.0.0-beta.5` | 🟢 Открытый | [GitHub Repository](https://github.com/Nigelx1/GucciBot) | Бесплатно |
 | 9 | **XENIA** | `v0.8.0` | 🟢 Открытый | [GitHub Releases](https://github.com/noxoraid/XeniaHack) | Бесплатно |
 | 10 | **Echo** | `v2.3.0-beta.3` | 🔒 Закрытый | [Discord Server](https://discord.gg/auucSBf5bH) | Бесплатно |
 | 11 | **Xenon** | `v1.0.0-alpha.21` | 🟢 Открытый | [Официальный сайт](https://xenon.baleszka.dev/) | Бесплатно |
 | 12 | **Vbot** | `v1.0.0-alpha` | 🟢 Открытый | [GitHub Repository](https://github.com/Vbot-Macro/Vbot) | Бесплатно |
-| 13 | **xyzBot** | `v1.16.0` | 🟢 Открытый | [Официальный сайт](https://malikisherenot.github.io/xyzBot/) | Бесплатно |
+| 13 | **xyzBot** | `v1.18.0` | 🟢 Открытый | [Официальный сайт](https://malikisherenot.github.io/xyzBot/) | Бесплатно |
 | 14 | **xdNako** | `v2.7.75-91` | 🔒 Закрытый | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Бесплатно |
 | 15 | **Ivy** | `v0.5.0` | 🔒 Закрытый | [Discord Server](https://discord.gg/um9PszU894) | Доступ через Discord |
 | 16 | **Astral** | `v1.2.3-beta` | 🔒 Закрытый | [Официальный сайт](https://astral-bot.com/download/) | Бесплатно |
@@ -45,14 +45,14 @@
 3. 🟢 **GDH** — `v5.1.0-beta.6` \| [Страница мода](https://geode-sdk.org/mods/tobyadd.gdh) \| *Open Source / Бесплатно*
 4. 🟢 **EclipseMenu** — `v1.9.4` \| [Страница мода](https://geode-sdk.org/mods/eclipse.eclipse-menu) \| *Open Source / Бесплатно*
 5. 🟢 **zBot (Free)** — `v3.0.0-beta.12` \| [Страница мода](https://geode-sdk.org/mods/fig.zbot) \| *Open Source / Бесплатно*
-6. 🟢 **skkBot** — `v0.1.3` \| [GitHub Repository](https://github.com/Skiro1/skkBot) \| *Open Source / Бесплатно*
+6. 🟢 **skkBot** — `v0.1.4` \| [GitHub Repository](https://github.com/Skiro1/skkBot) \| *Open Source / Бесплатно*
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Бесплатно*
 8. 🟢 **GucciBot** — `v2.0.0-beta.5` \| [GitHub Repository](https://github.com/Nigelx1/GucciBot) \| *Open Source / Бесплатно*
 9. 🟢 **XENIA** — `v0.8.0` \| [GitHub Repository](https://github.com/noxoraid/XeniaHack) \| *Open Source / Бесплатно*
 10. 🔒 **Echo** — `v2.3.0-beta.3` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Closed Source / Бесплатно*
 11. 🟢 **Xenon** — `v1.0.0-alpha.21` \| [Официальный сайт](https://xenon.baleszka.dev/) \| *Open Source / Бесплатно*
 12. 🟢 **Vbot** — `v1.0.0-alpha` \| [GitHub Repository](https://github.com/Vbot-Macro/Vbot) \| *Open Source / Бесплатно*
-13. 🟢 **xyzBot** — `v1.16.0` \| [Официальный сайт](https://malikisherenot.github.io/xyzBot/) \| *Open Source / Бесплатно*
+13. 🟢 **xyzBot** — `v1.18.0` \| [Официальный сайт](https://malikisherenot.github.io/xyzBot/) \| *Open Source / Бесплатно*
 14. 🔒 **xdNako** — `v2.7.75-91` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7/releases) \| *Closed Source / Бесплатно*
 15. 🔒 **Ivy** — `v0.5.0` \| [Discord Server](https://discord.gg/um9PszU894) \| *Closed Source / Доступ на сервере*
 16. 🔒 **Astral** — `v1.2.3-beta` \| [Официальный сайт](https://astral-bot.com/download/) \| *Closed Source / Бесплатно*
@@ -76,14 +76,14 @@
 | 3 | **GDH** | `v5.1.0-beta.6` | 🟢 Open Source | [Mod Page](https://geode-sdk.org/mods/tobyadd.gdh) | Free |
 | 4 | **EclipseMenu** | `v1.9.4` | 🟢 Open Source | [Mod Page](https://geode-sdk.org/mods/eclipse.eclipse-menu) | Free |
 | 5 | **zBot (Free)** | `v3.0.0-beta.12` | 🟢 Open Source | [Mod Page](https://geode-sdk.org/mods/fig.zbot) | Free |
-| 6 | **skkBot** | `v0.1.3` | 🟢 Open Source | [GitHub Repository](https://github.com/Skiro1/skkBot) | Free |
+| 6 | **skkBot** | `v0.1.4` | 🟢 Open Source | [GitHub Repository](https://github.com/Skiro1/skkBot) | Free |
 | 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Open Source | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Free |
 | 8 | **GucciBot** | `v2.0.0-beta.5` | 🟢 Open Source | [GitHub Repository](https://github.com/Nigelx1/GucciBot) | Free |
 | 9 | **XENIA** | `v0.8.0` | 🟢 Open Source | [GitHub Repository](https://github.com/noxoraid/XeniaHack) | Free |
 | 10 | **Echo** | `v2.3.0-beta.3` | 🔒 Closed Source | [Discord Server](https://discord.gg/auucSBf5bH) | Free |
 | 11 | **Xenon** | `v1.0.0-alpha.21` | 🟢 Open Source | [Official Website](https://xenon.baleszka.dev/) | Free |
 | 12 | **Vbot** | `v1.0.0-alpha` | 🟢 Open Source | [GitHub Repository](https://github.com/Vbot-Macro/Vbot) | Free |
-| 13 | **xyzBot** | `v1.16.0` | 🟢 Open Source | [Website](https://malikisherenot.github.io/xyzBot/) | Free |
+| 13 | **xyzBot** | `v1.18.0` | 🟢 Open Source | [Website](https://malikisherenot.github.io/xyzBot/) | Free |
 | 14 | **xdNako** | `v2.7.75-91` | 🔒 Closed Source | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Free |
 | 15 | **Ivy** | `v0.5.0` | 🔒 Closed Source | [Discord Server](https://discord.gg/um9PszU894) | Server Access Required |
 | 16 | **Astral** | `v1.2.3-beta` | 🔒 Closed Source | [Official Website](https://astral-bot.com/download/) | Free |
@@ -101,14 +101,14 @@
 3. 🟢 **GDH** — `v5.1.0-beta.6` \| [Mod Page](https://geode-sdk.org/mods/tobyadd.gdh) \| *Open Source / Free*
 4. 🟢 **EclipseMenu** — `v1.9.4` \| [Mod Page](https://geode-sdk.org/mods/eclipse.eclipse-menu) \| *Open Source / Free*
 5. 🟢 **zBot (Free)** — `v3.0.0-beta.12` \| [Mod Page](https://geode-sdk.org/mods/fig.zbot) \| *Open Source / Free*
-6. 🟢 **skkBot** — `v0.1.3` \| [GitHub Repository](https://github.com/Skiro1/skkBot) \| *Open Source / Free*
+6. 🟢 **skkBot** — `v0.1.4` \| [GitHub Repository](https://github.com/Skiro1/skkBot) \| *Open Source / Free*
 7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Free*
 8. 🟢 **GucciBot** — `v2.0.0-beta.5` \| [GitHub Repository](https://github.com/Nigelx1/GucciBot) \| *Open Source / Free*
 9. 🟢 **XENIA** — `v0.8.0` \| [GitHub Repository](https://github.com/noxoraid/XeniaHack) \| *Open Source / Free*
 10. 🔒 **Echo** — `v2.3.0-beta.3` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Closed Source / Free*
 11. 🟢 **Xenon** — `v1.0.0-alpha.21` \| [Official Website](https://xenon.baleszka.dev/) \| *Open Source / Free*
 12. 🟢 **Vbot** — `v1.0.0-alpha` \| [GitHub Repository](https://github.com/Vbot-Macro/Vbot) \| *Open Source / Free*
-13. 🟢 **xyzBot** — `v1.16.0` \| [Website](https://malikisherenot.github.io/xyzBot/)\ | *Open Source / Free*
+13. 🟢 **xyzBot** — `v1.18.0` \| [Website](https://malikisherenot.github.io/xyzBot/)\ | *Open Source / Free*
 15. 🔒 **Ivy** — `v0.5.0` \| [Discord Server](https://discord.gg/um9PszU894) \| *Closed Source / Server Access Required*
 16. 🔒 **xdNako** — `v2.7.75-91` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) \| *Closed Source / Free*
 17. 🔒 **Astral** — `v1.2.3-beta` \| [Official Website](https://astral-bot.com/download/) \| *Closed Source / Free*
