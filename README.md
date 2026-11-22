@@ -1,120 +1,59 @@
-# Geometry Dash Mods & Bots List / Список модов и ботов Geometry Dash
+# Geometry Dash Bots & Mods
 
----
+Список ботов и модов для Geometry Dash.
 
-## Language Navigation / Навигация по языкам
+[🇷🇺 Русский](#русский) · [🇬🇧 English](#english)
 
-- [🇷🇺 Русский вариант](https://github.com/Skiro1/Geometry-Dash-Bots/blob/main/README.md#%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-russian-version)
-- [🇬🇧 English Variant](https://github.com/Skiro1/Geometry-Dash-Bots/blob/main/README.md#english-version--%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F)
+## Русский
 
----
+| Название | Версия | Исходный код | Цена / доступ |
+|---|---:|---|---:|
+| [Silicate](https://geode-sdk.org/mods/peony.silicate) | `v1.1.2` | Закрытый | Бесплатно |
+| [ToastyReplay (Free)](https://toastyreplay.xyz/#pricing) | `v2.2.5` | Открытый | Бесплатно |
+| [GDH](https://geode-sdk.org/mods/tobyadd.gdh) | `v5.1.0-beta.6` | Открытый | Бесплатно |
+| [EclipseMenu](https://geode-sdk.org/mods/eclipse.eclipse-menu) | `v1.9.4` | Открытый | Бесплатно |
+| [zBot (Free)](https://geode-sdk.org/mods/fig.zbot) | `v3.0.0-beta.12` | Открытый | Бесплатно |
+| [skkBot](https://github.com/Skiro1/skkBot) | `v0.1.5` | Открытый | Бесплатно |
+| [Neverhook](https://github.com/DeMaxi1337/Neverhook) | `v2.0.7-beta` | Открытый | Бесплатно |
+| [GucciBot](https://github.com/Nigelx1/GucciBot) | `v2.0.0-beta.5` | Открытый | Бесплатно |
+| [XENIA](https://github.com/noxoraid/XeniaHack) | `v0.8.0` | Открытый | Бесплатно |
+| [Echo](https://discord.gg/auucSBf5bH) | `v2.3.0-beta.3` | Закрытый | Бесплатно |
+| [Xenon](https://xenon.baleszka.dev/) | `v1.0.0-alpha.21` | Открытый | Бесплатно |
+| [Vbot](https://github.com/Vbot-Macro/Vbot) | `v1.0.0-alpha` | Открытый | Бесплатно |
+| [xyzBot](https://malikisherenot.github.io/xyzBot-website/) | `v2.0.0` | Открытый | Бесплатно |
+| [xdNako](https://github.com/CamelliaOffical/XDBot-2.7) | `v2.7.75-91` | Закрытый | Бесплатно |
+| [Ivy](https://discord.gg/um9PszU894) | `v0.5.0` | Закрытый | Доступ через Discord |
+| [Astral](https://astral-bot.com/download/) | `v1.2.3-beta` | Закрытый | Бесплатно |
+| [ToastyReplay (Pro)](https://toastyreplay.xyz/#pricing) | `v3.5.2` | Закрытый | $3 / месяц или $15 навсегда |
+| [zBot (Pro)](https://zbot.figmentcoding.me/) | Неизвестна | Закрытый | $4.00 |
+| [ծbot](https://tcbot.pro/#pricing) | Неизвестна | Закрытый | 899 ₽ |
+| [MegaHack](https://absolllute.com/store) | `v9.2.0-alpha.5` | Закрытый | $5.99 |
+| [Grape](https://discord.gg/gqUxMXKQFE) | `v1.51` | Закрытый | Доступ через Discord |
+| [iCreatePro](https://icreate.pro/) | `v6.10.1` | Закрытый | $6.00 |
 
-# Русская версия (Russian Version)
+## English
 
-### Общая таблица
-
-| № | Название | Версия | Исходный код | Ссылка / Источник | Цена / Доступ |
-| :-: | :--- | :---: | :---: | :--- | :--- |
-| 1 | **Silicate** | `v1.1.2` | 🔒 Закрытый | [Страница мода](https://geode-sdk.org/mods/peony.silicate) | Бесплатно |
-| 2 | **ToastyReplay (Free)** | `v2.2.5` | 🟢 Открытый | [Официальный сайт](https://toastyreplay.xyz/#pricing) | Бесплатно |
-| 3 | **GDH** | `v5.1.0-beta.6` | 🟢 Открытый | [Страница мода](https://geode-sdk.org/mods/tobyadd.gdh) | Бесплатно |
-| 4 | **EclipseMenu** | `v1.9.4` | 🟢 Открытый | [Страница мода](https://geode-sdk.org/mods/eclipse.eclipse-menu) | Бесплатно |
-| 5 | **zBot (Free)** | `v3.0.0-beta.12` | 🟢 Открытый | [Страница мода](https://geode-sdk.org/mods/fig.zbot) | Бесплатно |
-| 6 | **skkBot** | `v0.1.5` | 🟢 Открытый | [GitHub Repository](https://github.com/Skiro1/skkBot) | Бесплатно |
-| 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Открытый | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Бесплатно |
-| 8 | **GucciBot** | `v2.0.0-beta.5` | 🟢 Открытый | [GitHub Repository](https://github.com/Nigelx1/GucciBot) | Бесплатно |
-| 9 | **XENIA** | `v0.8.0` | 🟢 Открытый | [GitHub Releases](https://github.com/noxoraid/XeniaHack) | Бесплатно |
-| 10 | **Echo** | `v2.3.0-beta.3` | 🔒 Закрытый | [Discord Server](https://discord.gg/auucSBf5bH) | Бесплатно |
-| 11 | **Xenon** | `v1.0.0-alpha.21` | 🟢 Открытый | [Официальный сайт](https://xenon.baleszka.dev/) | Бесплатно |
-| 12 | **Vbot** | `v1.0.0-alpha` | 🟢 Открытый | [GitHub Repository](https://github.com/Vbot-Macro/Vbot) | Бесплатно |
-| 13 | **xyzBot** | `v2.0.0` | 🟢 Открытый | [Официальный сайт](https://malikisherenot.github.io/xyzBot-website/) | Бесплатно |
-| 14 | **xdNako** | `v2.7.75-91` | 🔒 Закрытый | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Бесплатно |
-| 15 | **Ivy** | `v0.5.0` | 🔒 Закрытый | [Discord Server](https://discord.gg/um9PszU894) | Доступ через Discord |
-| 16 | **Astral** | `v1.2.3-beta` | 🔒 Закрытый | [Официальный сайт](https://astral-bot.com/download/) | Бесплатно |
-| 17 | **ToastyReplay (Pro)** | `v3.5.2` | 🔒 Закрытый | [Официальный сайт](https://toastyreplay.xyz/#pricing) | **$3** / мес или **$15** навсегда |
-| 18 | **zBot (Pro)** | *Неизвестно* | 🔒 Закрытый | [Официальный сайт](https://zbot.figmentcoding.me/) | **$4.00** |
-| 19 | **ծbot** | *Неизвестно* | 🔒 Закрытый | [Официальный сайт](https://tcbot.pro/#pricing) | **899 ₽** |
-| 20 | **MegaHack** | `v9.2.0-alpha.5` | 🔒 Закрытый | [Официальный сайт](https://absolllute.com/store) | **$5.99** |
-| 21 | **Grape** | `v1.51` | 🔒 Закрытый | [Discord Server](https://discord.gg/gqUxMXKQFE) | Доступ через Discord |
-| 22 | **iCreatePro** | `v6.10.1` | 🔒 Закрытый | [Официальный сайт](https://icreate.pro/) | **$6.00** |
-
-### Единый маркированный список
-
-1. 🔒 **Silicate** — `v1.1.2` \| [Страница мода](https://geode-sdk.org/mods/peony.silicate) \| *Closed Source / Бесплатно*
-2. 🟢 **ToastyReplay (Free)** — `v2.2.5` \| [Официальный сайт](https://toastyreplay.xyz/#pricing) \| *Open Source / Бесплатно*
-3. 🟢 **GDH** — `v5.1.0-beta.6` \| [Страница мода](https://geode-sdk.org/mods/tobyadd.gdh) \| *Open Source / Бесплатно*
-4. 🟢 **EclipseMenu** — `v1.9.4` \| [Страница мода](https://geode-sdk.org/mods/eclipse.eclipse-menu) \| *Open Source / Бесплатно*
-5. 🟢 **zBot (Free)** — `v3.0.0-beta.12` \| [Страница мода](https://geode-sdk.org/mods/fig.zbot) \| *Open Source / Бесплатно*
-6. 🟢 **skkBot** — `v0.1.5` \| [GitHub Repository](https://github.com/Skiro1/skkBot) \| *Open Source / Бесплатно*
-7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Бесплатно*
-8. 🟢 **GucciBot** — `v2.0.0-beta.5` \| [GitHub Repository](https://github.com/Nigelx1/GucciBot) \| *Open Source / Бесплатно*
-9. 🟢 **XENIA** — `v0.8.0` \| [GitHub Repository](https://github.com/noxoraid/XeniaHack) \| *Open Source / Бесплатно*
-10. 🔒 **Echo** — `v2.3.0-beta.3` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Closed Source / Бесплатно*
-11. 🟢 **Xenon** — `v1.0.0-alpha.21` \| [Официальный сайт](https://xenon.baleszka.dev/) \| *Open Source / Бесплатно*
-12. 🟢 **Vbot** — `v1.0.0-alpha` \| [GitHub Repository](https://github.com/Vbot-Macro/Vbot) \| *Open Source / Бесплатно*
-13. 🟢 **xyzBot** — `v2.0.0` \| [Официальный сайт](https://malikisherenot.github.io/xyzBot-website/) \| *Open Source / Бесплатно*
-14. 🔒 **xdNako** — `v2.7.75-91` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7/releases) \| *Closed Source / Бесплатно*
-15. 🔒 **Ivy** — `v0.5.0` \| [Discord Server](https://discord.gg/um9PszU894) \| *Closed Source / Доступ на сервере*
-16. 🔒 **Astral** — `v1.2.3-beta` \| [Официальный сайт](https://astral-bot.com/download/) \| *Closed Source / Бесплатно*
-17. 🔒 **ToastyReplay (Pro)** — `v3.5.2` \| [Официальный сайт](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/мес или $15 навсегда*
-18. 🔒 **zBot (Pro)** — `Версия неизвестна` \| [Официальный сайт](https://zbot.figmentcoding.me/) \| *Closed Source / $4.00*
-19. 🔒 **ծbot** — `Версия неизвестна` \| [Официальный сайт](https://tcbot.pro/#pricing) \| *Closed Source / 899 ₽*
-20. 🔒 **MegaHack** — `v9.2.0-alpha.5` \| [Официальный сайт](https://absolllute.com/store) \| *Closed Source / $5.99*
-21. 🔒 **Grape** — `v1.51` \| [Discord Server](https://discord.gg/gqUxMXKQFE) \| *Closed Source / Доступ на сервере*
-22. 🔒 **iCreatePro** — `v6.10.1` \| [Официальный сайт](https://icreate.pro/) \| *Closed Source / $6.00*
-
----
-
-# English Version / Английская версия
-
-### Master Table
-
-| # | Name | Version | Source Code | Link / Source | Price / Access |
-| :-: | :--- | :---: | :---: | :--- | :--- |
-| 1 | **Silicate** | `v1.1.2` | 🔒 Closed Source | [Mod Page](https://geode-sdk.org/mods/peony.silicate) | Free |
-| 2 | **ToastyReplay (Free)** | `v2.2.5` | 🟢 Open Source | [Official Website](https://toastyreplay.xyz/#pricing) | Free |
-| 3 | **GDH** | `v5.1.0-beta.6` | 🟢 Open Source | [Mod Page](https://geode-sdk.org/mods/tobyadd.gdh) | Free |
-| 4 | **EclipseMenu** | `v1.9.4` | 🟢 Open Source | [Mod Page](https://geode-sdk.org/mods/eclipse.eclipse-menu) | Free |
-| 5 | **zBot (Free)** | `v3.0.0-beta.12` | 🟢 Open Source | [Mod Page](https://geode-sdk.org/mods/fig.zbot) | Free |
-| 6 | **skkBot** | `v0.1.5` | 🟢 Open Source | [GitHub Repository](https://github.com/Skiro1/skkBot) | Free |
-| 7 | **Neverhook** | `v2.0.7-beta` | 🟢 Open Source | [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) | Free |
-| 8 | **GucciBot** | `v2.0.0-beta.5` | 🟢 Open Source | [GitHub Repository](https://github.com/Nigelx1/GucciBot) | Free |
-| 9 | **XENIA** | `v0.8.0` | 🟢 Open Source | [GitHub Repository](https://github.com/noxoraid/XeniaHack) | Free |
-| 10 | **Echo** | `v2.3.0-beta.3` | 🔒 Closed Source | [Discord Server](https://discord.gg/auucSBf5bH) | Free |
-| 11 | **Xenon** | `v1.0.0-alpha.21` | 🟢 Open Source | [Official Website](https://xenon.baleszka.dev/) | Free |
-| 12 | **Vbot** | `v1.0.0-alpha` | 🟢 Open Source | [GitHub Repository](https://github.com/Vbot-Macro/Vbot) | Free |
-| 13 | **xyzBot** | `v2.0.0` | 🟢 Open Source | [Website](https://malikisherenot.github.io/xyzBot-website/) | Free |
-| 14 | **xdNako** | `v2.7.75-91` | 🔒 Closed Source | [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) | Free |
-| 15 | **Ivy** | `v0.5.0` | 🔒 Closed Source | [Discord Server](https://discord.gg/um9PszU894) | Server Access Required |
-| 16 | **Astral** | `v1.2.3-beta` | 🔒 Closed Source | [Official Website](https://astral-bot.com/download/) | Free |
-| 17 | **ToastyReplay (Pro)** | `v3.5.2` | 🔒 Closed Source | [Official Website](https://toastyreplay.xyz/#pricing) | **$3** / mo or **$15** lifetime |
-| 18 | **zBot (Pro)** | *Unknown* | 🔒 Closed Source | [Official Website](https://zbot.figmentcoding.me/) | **$4.00** |
-| 19 | **ծbot** | *Unknown* | 🔒 Closed Source | [Official Website](https://tcbot.pro/#pricing) | **899 ₽** |
-| 20 | **MegaHack** | `v9.2.0-alpha.5` | 🔒 Closed Source | [Official Website](https://absolllute.com/store) | **$5.99** 
-| 21 | **Grape** | `v1.51` | 🔒 Closed Source | [Discord Server](https://discord.gg/gqUxMXKQFE) | Server Access Required 
-| 22 | **iCreatePro** | `v6.10.1` | 🔒 Closed Source | [Official Website](https://icreate.pro/) | **$6.00** |
-
-### Combined Itemized List
-
-1. 🔒 **Silicate** — `v1.1.2` \| [Mod Page](https://geode-sdk.org/mods/peony.silicate) \| *Closed Source / Free*
-2. 🟢 **ToastyReplay (Free)** — `v2.2.5` \| [Official Website](https://toastyreplay.xyz/#pricing) \| *Open Source / Free*
-3. 🟢 **GDH** — `v5.1.0-beta.6` \| [Mod Page](https://geode-sdk.org/mods/tobyadd.gdh) \| *Open Source / Free*
-4. 🟢 **EclipseMenu** — `v1.9.4` \| [Mod Page](https://geode-sdk.org/mods/eclipse.eclipse-menu) \| *Open Source / Free*
-5. 🟢 **zBot (Free)** — `v3.0.0-beta.12` \| [Mod Page](https://geode-sdk.org/mods/fig.zbot) \| *Open Source / Free*
-6. 🟢 **skkBot** — `v0.1.5` \| [GitHub Repository](https://github.com/Skiro1/skkBot) \| *Open Source / Free*
-7. 🟢 **Neverhook** — `v2.0.7-beta` \| [GitHub Repository](https://github.com/DeMaxi1337/Neverhook) \| *Open Source / Free*
-8. 🟢 **GucciBot** — `v2.0.0-beta.5` \| [GitHub Repository](https://github.com/Nigelx1/GucciBot) \| *Open Source / Free*
-9. 🟢 **XENIA** — `v0.8.0` \| [GitHub Repository](https://github.com/noxoraid/XeniaHack) \| *Open Source / Free*
-10. 🔒 **Echo** — `v2.3.0-beta.3` \| [Discord Server](https://discord.gg/auucSBf5bH) \| *Closed Source / Free*
-11. 🟢 **Xenon** — `v1.0.0-alpha.21` \| [Official Website](https://xenon.baleszka.dev/) \| *Open Source / Free*
-12. 🟢 **Vbot** — `v1.0.0-alpha` \| [GitHub Repository](https://github.com/Vbot-Macro/Vbot) \| *Open Source / Free*
-13. 🟢 **xyzBot** — `v2.0.0` \| [Website](https://malikisherenot.github.io/xyzBot-website/)\ | *Open Source / Free*
-15. 🔒 **Ivy** — `v0.5.0` \| [Discord Server](https://discord.gg/um9PszU894) \| *Closed Source / Server Access Required*
-16. 🔒 **xdNako** — `v2.7.75-91` \| [GitHub Releases](https://github.com/CamelliaOffical/XDBot-2.7) \| *Closed Source / Free*
-17. 🔒 **Astral** — `v1.2.3-beta` \| [Official Website](https://astral-bot.com/download/) \| *Closed Source / Free*
-18. 🔒 **ToastyReplay (Pro)** — `v3.5.2` \| [Official Website](https://toastyreplay.xyz/#pricing) \| *Closed Source / $3/mo or $15 lifetime*
-19. 🔒 **zBot (Pro)** — `Unknown` \| [Official Website](https://zbot.figmentcoding.me/) \| *Closed Source / $4.00*
-20. 🔒 **ծbot** — `Unknown` \| [Official Website](https://tcbot.pro/#pricing) \| *Closed Source / 899 ₽*
-21. 🔒 **MegaHack** — `v9.2.0-alpha.5` \| [Official Website](https://absolllute.com/store) \| *Closed Source / $5.99*
-22. 🔒 **Grape** — `v1.51` \| [Discord Server](https://discord.gg/gqUxMXKQFE) \| *Closed Source / Server Access Required*
-23. 🔒 **iCreatePro** — `v6.10.1` \| [Official Website](https://icreate.pro/) \| *Closed Source / $6.00*
+| Name | Version | Source code | Price / access |
+|---|---:|---|---:|
+| [Silicate](https://geode-sdk.org/mods/peony.silicate) | `v1.1.2` | Closed | Free |
+| [ToastyReplay (Free)](https://toastyreplay.xyz/#pricing) | `v2.2.5` | Open | Free |
+| [GDH](https://geode-sdk.org/mods/tobyadd.gdh) | `v5.1.0-beta.6` | Open | Free |
+| [EclipseMenu](https://geode-sdk.org/mods/eclipse.eclipse-menu) | `v1.9.4` | Open | Free |
+| [zBot (Free)](https://geode-sdk.org/mods/fig.zbot) | `v3.0.0-beta.12` | Open | Free |
+| [skkBot](https://github.com/Skiro1/skkBot) | `v0.1.5` | Open | Free |
+| [Neverhook](https://github.com/DeMaxi1337/Neverhook) | `v2.0.7-beta` | Open | Free |
+| [GucciBot](https://github.com/Nigelx1/GucciBot) | `v2.0.0-beta.5` | Open | Free |
+| [XENIA](https://github.com/noxoraid/XeniaHack) | `v0.8.0` | Open | Free |
+| [Echo](https://discord.gg/auucSBf5bH) | `v2.3.0-beta.3` | Closed | Free |
+| [Xenon](https://xenon.baleszka.dev/) | `v1.0.0-alpha.21` | Open | Free |
+| [Vbot](https://github.com/Vbot-Macro/Vbot) | `v1.0.0-alpha` | Open | Free |
+| [xyzBot](https://malikisherenot.github.io/xyzBot-website/) | `v2.0.0` | Open | Free |
+| [xdNako](https://github.com/CamelliaOffical/XDBot-2.7) | `v2.7.75-91` | Closed | Free |
+| [Ivy](https://discord.gg/um9PszU894) | `v0.5.0` | Closed | Discord access required |
+| [Astral](https://astral-bot.com/download/) | `v1.2.3-beta` | Closed | Free |
+| [ToastyReplay (Pro)](https://toastyreplay.xyz/#pricing) | `v3.5.2` | Closed | $3 / month or $15 lifetime |
+| [zBot (Pro)](https://zbot.figmentcoding.me/) | Unknown | Closed | $4.00 |
+| [ծbot](https://tcbot.pro/#pricing) | Unknown | Closed | 899 ₽ |
+| [MegaHack](https://absolllute.com/store) | `v9.2.0-alpha.5` | Closed | $5.99 |
+| [Grape](https://discord.gg/gqUxMXKQFE) | `v1.51` | Closed | Discord access required |
+| [iCreatePro](https://icreate.pro/) | `v6.10.1` | Closed | $6.00 |
