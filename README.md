@@ -1,6 +1,7 @@
 # Geometry Dash Bots & Mods
 
 Список ботов и модов для Geometry Dash.
+List of bots and mods for Geometry Dash.
 
 [🇷🇺 Русский](#русский) · [🇬🇧 English](#english)
 
