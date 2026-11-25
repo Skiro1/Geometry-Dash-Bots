@@ -24,7 +24,7 @@ List of bots and mods for Geometry Dash.
 | [xyzBot](https://malikisherenot.github.io/xyzBot-website/) | `v2.0.0` | Открытый | Бесплатно |
 | [xdNako](https://github.com/CamelliaOffical/XDBot-2.7) | `v2.7.75-91` | Закрытый | Бесплатно |
 | [Ivy](https://discord.gg/um9PszU894) | `v0.5.0` | Закрытый | Доступ через Discord |
-| [Astral](https://astral-bot.com/download/) | `v1.2.3-beta` | Закрытый | Бесплатно |
+| [Astral](https://astral-bot.com/download/) | `v1.3.0-beta` | Закрытый | Бесплатно |
 | [ToastyReplay (Pro)](https://toastyreplay.xyz/#pricing) | `v3.5.2` | Закрытый | $3 / месяц или $15 навсегда |
 | [zBot (Pro)](https://zbot.figmentcoding.me/) | Неизвестна | Закрытый | $4.00 |
 | [ծbot](https://tcbot.pro/#pricing) | Неизвестна | Закрытый | 899 ₽ |
@@ -51,7 +51,7 @@ List of bots and mods for Geometry Dash.
 | [xyzBot](https://malikisherenot.github.io/xyzBot-website/) | `v2.0.0` | Open | Free |
 | [xdNako](https://github.com/CamelliaOffical/XDBot-2.7) | `v2.7.75-91` | Closed | Free |
 | [Ivy](https://discord.gg/um9PszU894) | `v0.5.0` | Closed | Discord access required |
-| [Astral](https://astral-bot.com/download/) | `v1.2.3-beta` | Closed | Free |
+| [Astral](https://astral-bot.com/download/) | `v1.3.0-beta` | Closed | Free |
 | [ToastyReplay (Pro)](https://toastyreplay.xyz/#pricing) | `v3.5.2` | Closed | $3 / month or $15 lifetime |
 | [zBot (Pro)](https://zbot.figmentcoding.me/) | Unknown | Closed | $4.00 |
 | [ծbot](https://tcbot.pro/#pricing) | Unknown | Closed | 899 ₽ |
