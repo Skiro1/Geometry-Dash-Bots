@@ -12,7 +12,7 @@ List of bots and mods for Geometry Dash.
 | [Silicate](https://geode-sdk.org/mods/peony.silicate) | `v1.1.4` | Закрытый | Бесплатно |
 | [ToastyReplay (Free)](https://toastyreplay.xyz/#pricing) | `v2.2.5` | Открытый | Бесплатно |
 | [GDH](https://geode-sdk.org/mods/tobyadd.gdh) | `v5.1.0-beta.6` | Открытый | Бесплатно |
-| [EclipseMenu](https://geode-sdk.org/mods/eclipse.eclipse-menu) | `v1.9.4` | Открытый | Бесплатно |
+| [EclipseMenu](https://geode-sdk.org/mods/eclipse.eclipse-menu) | `v1.10.0` | Открытый | Бесплатно |
 | [zBot (Free)](https://geode-sdk.org/mods/fig.zbot) | `v3.0.0-beta.12` | Открытый | Бесплатно |
 | [skkBot](https://github.com/Skiro1/skkBot) | `v0.1.5` | Открытый | Бесплатно |
 | [Neverhook](https://github.com/DeMaxi1337/Neverhook) | `v2.0.7-beta` | Открытый | Бесплатно |
@@ -39,7 +39,7 @@ List of bots and mods for Geometry Dash.
 | [Silicate](https://geode-sdk.org/mods/peony.silicate) | `v1.1.4` | Closed | Free |
 | [ToastyReplay (Free)](https://toastyreplay.xyz/#pricing) | `v2.2.5` | Open | Free |
 | [GDH](https://geode-sdk.org/mods/tobyadd.gdh) | `v5.1.0-beta.6` | Open | Free |
-| [EclipseMenu](https://geode-sdk.org/mods/eclipse.eclipse-menu) | `v1.9.4` | Open | Free |
+| [EclipseMenu](https://geode-sdk.org/mods/eclipse.eclipse-menu) | `v1.10.0` | Open | Free |
 | [zBot (Free)](https://geode-sdk.org/mods/fig.zbot) | `v3.0.0-beta.12` | Open | Free |
 | [skkBot](https://github.com/Skiro1/skkBot) | `v0.1.5` | Open | Free |
 | [Neverhook](https://github.com/DeMaxi1337/Neverhook) | `v2.0.7-beta` | Open | Free |
