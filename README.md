@@ -18,7 +18,7 @@ List of bots and mods for Geometry Dash.
 | [Neverhook](https://github.com/DeMaxi1337/Neverhook) | `v2.0.7-beta` | Открытый | Бесплатно |
 | [GucciBot](https://github.com/Nigelx1/GucciBot) | `v2.0.1` | Открытый | Бесплатно |
 | [XENIA](https://github.com/noxoraid/XeniaHack) | `v0.8.0` | Открытый | Бесплатно |
-| [Echo](https://discord.gg/auucSBf5bH) | `v2.3.0-beta.3` | Закрытый | Бесплатно |
+| [Echo](https://echogd.com/download) | `v2.3.0-beta.4` | Закрытый | Бесплатно |
 | [Xenon](https://xenon.baleszka.dev/) | `v1.0.0-alpha.21` | Открытый | Бесплатно |
 | [Vbot](https://github.com/Vbot-Macro/Vbot) | `v1.0.0-alpha` | Открытый | Бесплатно |
 | [xyzBot](https://malikisherenot.github.io/xyzBot-website/) | `v2.0.0` | Открытый | Бесплатно |
@@ -45,7 +45,7 @@ List of bots and mods for Geometry Dash.
 | [Neverhook](https://github.com/DeMaxi1337/Neverhook) | `v2.0.7-beta` | Open | Free |
 | [GucciBot](https://github.com/Nigelx1/GucciBot) | `v2.0.1` | Open | Free |
 | [XENIA](https://github.com/noxoraid/XeniaHack) | `v0.8.0` | Open | Free |
-| [Echo](https://discord.gg/auucSBf5bH) | `v2.3.0-beta.3` | Closed | Free |
+| [Echo](https://echogd.com/download) | `v2.3.0-beta.4` | Closed | Free |
 | [Xenon](https://xenon.baleszka.dev/) | `v1.0.0-alpha.21` | Open | Free |
 | [Vbot](https://github.com/Vbot-Macro/Vbot) | `v1.0.0-alpha` | Open | Free |
 | [xyzBot](https://malikisherenot.github.io/xyzBot-website/) | `v2.0.0` | Open | Free |
