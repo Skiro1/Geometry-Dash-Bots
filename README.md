@@ -16,7 +16,7 @@ List of bots and mods for Geometry Dash.
 | [zBot (Free)](https://geode-sdk.org/mods/fig.zbot) | `v3.0.0-beta.12` | Открытый | Бесплатно |
 | [skkBot](https://github.com/Skiro1/skkBot) | `v0.1.5` | Открытый | Бесплатно |
 | [Neverhook](https://github.com/DeMaxi1337/Neverhook) | `v2.0.7-beta` | Открытый | Бесплатно |
-| [GucciBot](https://github.com/Nigelx1/GucciBot) | `v2.0.0-beta.5` | Открытый | Бесплатно |
+| [GucciBot](https://github.com/Nigelx1/GucciBot) | `v2.0.1` | Открытый | Бесплатно |
 | [XENIA](https://github.com/noxoraid/XeniaHack) | `v0.8.0` | Открытый | Бесплатно |
 | [Echo](https://discord.gg/auucSBf5bH) | `v2.3.0-beta.3` | Закрытый | Бесплатно |
 | [Xenon](https://xenon.baleszka.dev/) | `v1.0.0-alpha.21` | Открытый | Бесплатно |
@@ -43,7 +43,7 @@ List of bots and mods for Geometry Dash.
 | [zBot (Free)](https://geode-sdk.org/mods/fig.zbot) | `v3.0.0-beta.12` | Open | Free |
 | [skkBot](https://github.com/Skiro1/skkBot) | `v0.1.5` | Open | Free |
 | [Neverhook](https://github.com/DeMaxi1337/Neverhook) | `v2.0.7-beta` | Open | Free |
-| [GucciBot](https://github.com/Nigelx1/GucciBot) | `v2.0.0-beta.5` | Open | Free |
+| [GucciBot](https://github.com/Nigelx1/GucciBot) | `v2.0.1` | Open | Free |
 | [XENIA](https://github.com/noxoraid/XeniaHack) | `v0.8.0` | Open | Free |
 | [Echo](https://discord.gg/auucSBf5bH) | `v2.3.0-beta.3` | Closed | Free |
 | [Xenon](https://xenon.baleszka.dev/) | `v1.0.0-alpha.21` | Open | Free |
